@@ -1,0 +1,238 @@
+﻿StandardCode,Version,StandardName,StandardSectorCode,NotionalEndLevel,EffectiveFrom,LastDateStarts,EffectiveTo,URLLink,SectorSubjectAreaTier1,SectorSubjectAreaTier2,IntegratedDegreeStandard,Created_On,Created_By,Modified_On,Modified_By
+1,1,Network Engineer,7,4,01-Aug-14,,,https://www.gov.uk/government/publications/apprenticeship-standard-network-engineer,6,6.1,N,09-Jul-15,goodmand,09-Jul-15,goodmand
+2,1,Software Developer,7,4,01-Aug-14,,,https://www.gov.uk/government/publications/apprenticeship-standard-software-developer,6,6.2,N,09-Jul-15,goodmand,09-Jul-15,goodmand
+3,1,Aerospace Manufacturing Fitter,2,3,01-Aug-14,31-Mar-17,31-Mar-17,https://www.gov.uk/government/publications/apprenticeship-standard-aerospace-manufacturing-fitter,4,4.1,N,09-Jul-15,goodmand,07-Apr-17,robinsonsar
+4,1,Mechatronics Maintenance Technician,3,3,01-Aug-14,31-Mar-17,31-Mar-17,https://www.gov.uk/government/publications/apprenticeship-standard-mechatronics-maintenance-technician,4,4.2,N,09-Jul-15,goodmand,07-Apr-17,robinsonsar
+5,1,Installation Electrician/Maintenance Electrician,19,3,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-installation-electricianmaintenance-electrician,4,4.1,N,16-Sep-15,fisherk,16-Sep-15,fisherk
+6,1,Power Network Craftsperson,8,3,01-Aug-14,,,https://www.gov.uk/government/publications/apprenticeship-standard-power-network-craftsperson,4,4.1,N,09-Jul-15,goodmand,09-Jul-15,goodmand
+7,1,Relationship Manager (Banking),9,6,01-Aug-14,,,https://www.gov.uk/government/publications/apprenticeship-standard-relationship-manager-banking,15,15.1,N,09-Jul-15,goodmand,09-Jul-15,goodmand
+8,1,Financial Services Administrator,9,3,01-Aug-14,,,https://www.gov.uk/government/publications/apprenticeship-standard-financial-services-administrator,15,15.1,N,09-Jul-15,goodmand,09-Jul-15,goodmand
+9,1,Control /Technical Support Engineer,3,6,01-Aug-14,,,https://www.gov.uk/government/publications/apprenticeship-standard-controltechnical-support-engineer,4,4.2,N,09-Jul-15,goodmand,06-Aug-15,vijaydek
+10,1,Electrical /Electronic Technical Support Engineer,3,6,01-Aug-14,,,https://www.gov.uk/government/publications/apprenticeship-standard-electricalelectronic-technical-support-engineer,4,4.2,N,09-Jul-15,goodmand,06-Aug-15,vijaydek
+11,1,Manufacturing Engineer,3,6,01-Aug-14,,,https://www.gov.uk/government/publications/apprenticeship-standard-manufacturing-engineer,4,4.2,N,09-Jul-15,goodmand,14-Sep-16,goodmand
+12,1,Product Design and Development Engineer,3,6,01-Aug-14,,,https://www.gov.uk/government/publications/apprenticeship-standard-product-design-and-development-engineer,4,4.2,N,09-Jul-15,goodmand,14-Sep-16,goodmand
+13,1,Product Design and Development Technician,3,3,01-Aug-14,31-Mar-17,31-Mar-17,https://www.gov.uk/government/publications/apprenticeship-standard-product-design-and-development-technician,4,4.2,N,09-Jul-15,goodmand,07-Apr-17,robinsonsar
+14,1,Laboratory Technician,4,3,01-Aug-14,,,https://www.gov.uk/government/publications/apprenticeship-standard-laboratory-technician,4,4.2,N,09-Jul-15,goodmand,06-Aug-15,vijaydek
+15,1,Science Manufacturing Technician,4,3,01-Aug-14,,,https://www.gov.uk/government/publications/apprenticeship-standard-science-manufacturing-technician,4,4.2,N,09-Jul-15,goodmand,06-Aug-15,vijaydek
+16,1,Food and Drink Maintenance Engineer,5,3,01-Aug-14,,,https://www.gov.uk/government/publications/apprenticeship-standard-food-and-drink-maintenance-engineer,4,4.1,N,09-Jul-15,goodmand,06-Aug-15,vijaydek
+17,1,Actuarial Technician,1,4,26-Mar-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-actuarial-technician,15,15.1,N,09-Jul-15,goodmand,09-Jul-15,goodmand
+18,1,Dental Technician,6,5,26-Mar-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-dental-technician,1,1.1,N,09-Jul-15,goodmand,09-Jul-15,goodmand
+19,1,Dental Laboratory Assistant,6,3,26-Mar-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-dental-laboratory-assistant,1,1.1,N,09-Jul-15,goodmand,09-Jul-15,goodmand
+20,1,Dental Practice Manager,6,4,26-Mar-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-dental-practice-manager,1,1.1,N,09-Jul-15,goodmand,09-Jul-15,goodmand
+21,1,Golf Greenkeeper,10,2,26-Mar-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-golf-greenkeeper,3,3.1,N,09-Jul-15,goodmand,09-Jul-15,goodmand
+22,1,Junior Journalist,11,3,26-Mar-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-junior-journalist,9,9.3,N,09-Jul-15,goodmand,09-Jul-15,goodmand
+23,1,Property Maintenance Operative,12,2,26-Mar-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-property-maintenance-operative,5,5.2,N,09-Jul-15,goodmand,09-Jul-15,goodmand
+24,1,Railway Engineering Design Technician,13,3,26-Mar-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-railway-engineering-design-technician,4,4.1,N,09-Jul-15,goodmand,09-Jul-15,goodmand
+25,1,Digital and Technology Solutions Professional,7,6,26-Mar-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-digital-technology-solutions-professional,6,6.1,N,09-Jul-15,goodmand,16-May-16,fisherk
+26,1,Dual Fuel Smart Meter Installer,8,2,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-dual-fuel-smart-meter-installer,4,4.1,N,03-Sep-15,fisherk,16-Sep-15,fisherk
+27,1,Water Process Technician,8,3,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-water-process-technician,4,4.1,N,03-Sep-15,fisherk,16-Sep-15,fisherk
+28,1,Financial Services Customer Adviser,9,2,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-financial-services-customer-adviser,15,15.1,N,03-Sep-15,fisherk,16-Sep-15,fisherk
+29,1,Investment Operations Administrator,9,2,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-investment-operations-administrator,15,15.1,N,03-Sep-15,fisherk,16-Sep-15,fisherk
+30,1,Investment Operations Specialist,9,4,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-investment-operations-specialist,15,15.1,N,03-Sep-15,fisherk,16-Sep-15,fisherk
+31,1,Senior Financial Services Customer Adviser,9,3,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-senior-financial-services-customer-adviser,15,15.1,N,03-Sep-15,fisherk,16-Sep-15,fisherk
+32,1,Workplace Pensions (Administrator or Consultant),9,3,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-workplace-pensions-consultant-or-administrator,15,15.1,N,03-Sep-15,fisherk,16-Sep-15,fisherk
+33,1,Investment Operations Technician,9,3,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-investment-operations-technician,15,15.1,N,03-Sep-15,fisherk,16-Sep-15,fisherk
+34,1,Able Seafarer (Deck),14,2,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-able-seafarer-deck,4,4.3,N,03-Sep-15,fisherk,16-Sep-15,fisherk
+35,1,Nuclear Welding Inspection Technician,15,4,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-nuclear-welding-inspection-technician,4,4.1,N,03-Sep-15,fisherk,16-Sep-15,fisherk
+36,1,Public Service Operational Delivery Officer,16,3,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-operational-delivery-officer,1,1.4,N,03-Sep-15,fisherk,16-Sep-15,fisherk
+37,1,Aerospace Engineer,2,6,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-aerospace-engineer,4,4.1,N,03-Sep-15,fisherk,16-Sep-15,fisherk
+38,1,Aerospace Software Development Engineer,2,6,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-aerospace-software-development-engineer,4,4.1,N,03-Sep-15,fisherk,16-Sep-15,fisherk
+39,1,Conveyancing Technician,17,4,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-conveyancing-technician,15,15.5,N,03-Sep-15,fisherk,16-Sep-15,fisherk
+40,1,Licensed Conveyancer,17,6,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-licensed-conveyancer,15,15.5,N,03-Sep-15,fisherk,16-Sep-15,fisherk
+41,1,Chartered Legal Executive,18,6,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-chartered-legal-executive,15,15.5,N,03-Sep-15,fisherk,16-Sep-15,fisherk
+42,1,Paralegal,18,3,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-paralegal,15,15.5,N,03-Sep-15,fisherk,16-Sep-15,fisherk
+43,1,Solicitor,18,7,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-solicitor,15,15.5,N,03-Sep-15,fisherk,16-Sep-15,fisherk
+44,1,Laboratory Scientist,4,5,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-laboratory-scientist,4,4.2,N,03-Sep-15,fisherk,16-Sep-15,fisherk
+45,1,Science Industry Maintenance Technician,4,3,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-science-industry-maintenance-technician,5,5.2,N,03-Sep-15,fisherk,16-Sep-15,fisherk
+46,1,Nuclear Health Physics Monitor,15,2,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-nuclear-health-physics-monitor-standard,1,1.2,N,03-Sep-15,fisherk,16-Sep-15,fisherk
+47,1,Nuclear Scientist and Nuclear Engineer,15,6,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-nuclear-scientist-and-nuclear-engineer,4,4.1,N,03-Sep-15,fisherk,16-Sep-15,fisherk
+48,1,Paraplanner,9,4,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-paraplanner,15,15.1,N,16-Sep-15,fisherk,16-Sep-15,fisherk
+49,1,Refrigeration Air Conditioning and Heat Pump Engineering Technician,20,3,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-refrigeration-air-conditioning-heat-pump-engineering-technician,4,4.1,N,16-Sep-15,fisherk,16-Sep-15,fisherk
+50,1,Chartered Surveyor,21,6,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-chartered-surveyor,5,5.2,N,16-Sep-15,fisherk,16-Sep-15,fisherk
+51,1,Surveying Technician,21,3,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-surveying-technician,5,5.2,N,16-Sep-15,fisherk,16-Sep-15,fisherk
+52,1,Systems Engineering Masters Level,22,7,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-systems-engineering,4,4.1,N,16-Sep-15,fisherk,16-Sep-15,fisherk
+53,1,Utilities Engineering Technician,8,3,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-utilities-engineering-technician,4,4.1,N,06-Oct-15,fisherk,06-Oct-15,fisherk
+54,1,Butcher,23,2,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-butchery,7,7.4,N,06-Oct-15,fisherk,06-Oct-15,fisherk
+55,1,Chartered Manager Degree Apprenticeship,24,6,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-chartered-manager-degree-apprenticeship,15,15.3,N,07-Oct-15,fisherk,07-Oct-15,fisherk
+56,1,"Aerospace Manufacturing Electrical, Mechanical and Systems Fitter",2,3,01-Aug-15,31-Mar-17,31-Mar-17,https://www.gov.uk/government/publications/apprenticeship-standard-aerospace-manufacturing-electrical-mechanical-and-systems-fitter,4,4.1,N,22-Oct-15,fisherk,07-Apr-17,robinsonsar
+57,1,Gas Network Craftsperson,8,3,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-gas-network-craftsperson,4,4.1,N,22-Oct-15,fisherk,22-Oct-15,fisherk
+58,1,Gas Network Team Leader,8,2,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-gas-network-team-leader,4,4.1,N,22-Oct-15,fisherk,22-Oct-15,fisherk
+59,1,Motor Vehicle Service and Maintenance Technician (light vehicle),35,3,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-motor-vehicle-service-and-maintenance-technician-light-vehicle,7,7.3,N,22-Oct-15,fisherk,16-May-16,fisherk
+60,1,Insurance Practitioner,27,3,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-insurance-practitioner,15,15.1,N,04-Nov-15,fisherk,04-Nov-15,fisherk
+61,1,Dental Nurse,6,3,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-dental-nurse,1,1.3,N,13-Nov-15,fisherk,13-Nov-15,fisherk
+62,1,Mortgage Adviser,9,3,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-mortgage-adviser,15,15.1,N,20-Nov-15,fisherk,15-Jul-16,guinivas
+63,1,Insurance Professional,9,4,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-insurance-professional,15,15.1,N,20-Nov-15,fisherk,20-Nov-15,fisherk
+64,1,Housing/Property Management Assistant,36,2,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-housingproperty-management-assistant,1,1.4,N,04-Dec-15,fisherk,15-Jul-16,guinivas
+65,1,Housing/Property Management,36,3,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-housing-management,1,1.4,N,04-Dec-15,fisherk,15-Jul-16,guinivas
+66,1,Senior Housing/Property Management,36,4,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-senior-housingproperty-management,1,1.4,N,04-Dec-15,fisherk,15-Jul-16,guinivas
+67,1,Non-destructive Testing Engineering Technician,37,3,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-non-destructive-testing-engineering-technician,4,4.1,N,04-Dec-15,fisherk,04-Dec-15,fisherk
+68,1,Junior Energy Manager,38,3,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-junior-energy-manager,7,7.3,N,04-Dec-15,fisherk,04-Dec-15,fisherk
+69,1,Land-Based Service Engineer,39,2,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-land-based-service-engineer,3,3.1,N,24-Dec-15,fisherk,15-Jul-16,guinivas
+70,1,Land-Based Service Engineering Technician,39,3,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-land-based-service-engineering-technician,3,3.1,N,24-Dec-15,fisherk,15-Jul-16,guinivas
+71,1,Live Event Rigger,40,3,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-live-event-rigger,9,9.1,N,24-Dec-15,fisherk,24-Dec-15,fisherk
+72,1,Bespoke Tailor and Cutter,41,5,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-bespoke-tailor-and-cutter,7,7.1,N,05-Feb-16,fisherk,05-Feb-16,fisherk
+73,1,Public Sector Commercial Professional,29,4,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-public-sector-commercial-professional,1,1.4,N,05-Feb-16,fisherk,05-Feb-16,fisherk
+74,1,Gas Engineering,8,3,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-gas-engineering,4,4.1,N,05-Feb-16,fisherk,05-Feb-16,fisherk
+75,1,Outside Broadcasting Engineer,32,7,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-outside-broadcasting-engineer,9,9.3,N,17-Feb-16,fisherk,17-Feb-16,fisherk
+76,1,Boatbuilder,42,3,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-boatbuilder,4,4.2,N,25-Feb-16,fisherk,25-Feb-16,fisherk
+77,1,Credit Controller/Collector,9,2,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-credit-controller-collector,15,15.1,N,11-Mar-16,fisherk,11-Mar-16,fisherk
+78,1,Digital Marketer,7,3,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-digital-marketer,6,6.1,N,01-Apr-16,fisherk,01-Apr-16,fisherk
+79,1,Cyber Intrusion Analyst,7,4,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-cyber-intrusion-analyst,6,6.1,N,01-Apr-16,fisherk,01-Apr-16,fisherk
+80,1,Data Analyst,7,4,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-data-analyst,6,6.1,N,01-Apr-16,fisherk,01-Apr-16,fisherk
+81,1,Unified Communications Trouble Shooter,7,4,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-unified-communications-troubleshooter,6,6.1,N,01-Apr-16,fisherk,01-Apr-16,fisherk
+82,1,Infrastructure Technician,7,3,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-infrastructure-technician,6,6.1,N,01-Apr-16,fisherk,01-Apr-16,fisherk
+83,1,Junior Management Consultant,43,4,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-junior-management-consultant,15,15.1,N,07-Apr-16,fisherk,07-Apr-16,fisherk
+84,1,Junior 2D Artist (visual effects),33,4,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-junior-2d-artist-visual-effects,9,9.2,N,07-Apr-16,fisherk,07-Apr-16,fisherk
+85,1,Assistant Technical Director (visual effects),33,4,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-assistant-technical-director-visual-effects,9,9.2,N,07-Apr-16,fisherk,07-Apr-16,fisherk
+86,1,Aviation Ground Specialist,26,3,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-aviation-ground-specialist,4,4.3,N,27-Apr-16,fisherk,27-Apr-16,fisherk
+87,1,Aviation Ground Operative,26,2,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-aviation-ground-operative,4,4.3,N,27-Apr-16,fisherk,27-Apr-16,fisherk
+88,1,Rail Engineering Advanced Technician,30,4,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-rail-engineering-advanced-technician,4,4.3,N,27-Apr-16,fisherk,27-Apr-16,fisherk
+89,1,Rail Engineering Technician,30,3,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-rail-engineering-technician,4,4.3,N,27-Apr-16,fisherk,27-Apr-16,fisherk
+90,1,Rail Engineering Operative,30,2,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-rail-engineering-operative,4,4.3,N,27-Apr-16,fisherk,27-Apr-16,fisherk
+91,1,Software Tester,7,4,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-software-tester,6,6.1,N,27-Apr-16,fisherk,27-Apr-16,fisherk
+92,1,Engineering Design and Draughtsperson,45,3,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-engineering-design-draughtsperson,4,4.1,N,04-May-16,fisherk,16-May-16,fisherk
+93,1,Commis Chef,44,2,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-commis-chef,7,7.4,N,04-May-16,fisherk,04-May-16,fisherk
+94,1,Welding,34,2,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-welder-level-2,4,4.2,N,04-May-16,fisherk,04-May-16,fisherk
+95,1,Welding,34,3,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-welder-level-3,4,4.2,N,04-May-16,fisherk,04-May-16,fisherk
+96,1,Hospitality Team Member,44,2,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-hospitality-team-member,7,7.4,N,04-May-16,fisherk,04-May-16,fisherk
+97,1,Machinist (Advanced Manufacturing Engineering),47,3,01-Aug-15,31-Mar-17,31-Mar-17,https://www.gov.uk/government/publications/apprenticeship-standard-machinist-advanced-manufacturing-engineering,4,4.1,N,16-May-16,fisherk,07-Apr-17,robinsonsar
+98,1,Cyber Security Technologist,7,4,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-cyber-security-technologist-approved-for-delivery,6,6.1,N,16-May-16,fisherk,16-May-16,fisherk
+99,1,Healthcare Science Assistant,46,2,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-healthcare-science-assistant,1,1.3,N,16-May-16,fisherk,16-May-16,fisherk
+100,1,Transport Planning Technician,48,3,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-transport-planning-technician,5,5.2,N,16-May-16,fisherk,16-May-16,fisherk
+101,1,Retailer,31,2,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-retailer,7,7.1,N,20-May-16,robinsonsar,20-May-16,robinsonsar
+102,1,Healthcare Assistant Practitioner,46,5,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-healthcare-assistant-practitioner,1,1.3,N,20-May-16,robinsonsar,15-Jul-16,guinivas
+103,1,Healthcare Support Worker,46,2,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-healthcare-support-worker,1,1.3,N,20-May-16,robinsonsar,15-Jul-16,guinivas
+104,1,Operations/Departmental Manager,24,5,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-operationsdepartmental-manager-approved-for-delivery,15,15.3,N,02-Jun-16,fisherk,02-Jun-16,fisherk
+105,1,Team Leader/Supervisor,24,3,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-team-leadersupervisor-approved-for-delivery,15,15.3,N,02-Jun-16,fisherk,15-Jul-16,guinivas
+106,1,Papermaker,28,3,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-papermaker,4,4.2,N,02-Jun-16,fisherk,15-Jul-16,guinivas
+107,1,Embedded Electronic Systems Design and Development Engineer,19,6,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-embedded-electronic-systems-design-and-development-engineer,4,4.2,N,10-Jun-16,robinsonsar,10-Jun-16,robinsonsar
+108,1,HM Forces Serviceperson (Public Services),49,2,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-hm-forces-public-services-operational-delivery-uniformed,1,1.4,N,10-Jun-16,robinsonsar,10-Jun-16,robinsonsar
+109,1,Supply Chain Operator,51,2,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-supply-chain-operator,4,4.3,N,12-Jul-16,fisherk,12-Jul-16,fisherk
+110,1,Large Goods Vehicle (LGV) Driver,51,2,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-large-goods-vehicle-lgv-driver,4,4.3,N,12-Jul-16,fisherk,12-Jul-16,fisherk
+111,1,Supply Chain Warehouse Operative,51,2,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-supply-chain-warehouse-operative,7,7.2,N,12-Jul-16,fisherk,12-Jul-16,fisherk
+112,1,Broadcast Production Assistant,32,3,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-broadcast-production-assistant,9,9.3,N,12-Jul-16,fisherk,12-Jul-16,fisherk
+113,1,Aircraft Maintenance Fitter / Technician (fixed and rotary wing),50,3,01-Aug-15,31-Mar-17,31-Mar-17,https://www.gov.uk/government/publications/apprenticeship-standard-aircraft-maintenance-fittertechnician-fixed-and-rotary-wing,4,4.1,N,30-Jun-16,robinsonsar,07-Apr-17,robinsonsar
+114,1,Aircraft Maintenance Certifying Engineer,50,4,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-aircraft-maintenance-certifying-engineer,4,4.1,N,30-Jun-16,robinsonsar,30-Jun-16,robinsonsar
+115,1,"Airworthiness Planning, Quality and Safety Technician",50,3,01-Aug-15,31-Mar-17,31-Mar-17,https://www.gov.uk/government/publications/apprenticeship-standard-airworthiness-planning-quality-and-safety-technician,4,4.1,N,30-Jun-16,robinsonsar,07-Apr-17,robinsonsar
+116,1,Survival Equipment Fitter,2,3,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-survival-equipment-fitter,4,4.1,N,07-Jul-16,guinivas,07-Jul-16,guinivas
+117,1,Professional Accounting Taxation Technician,52,4,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-professional-accounting-technician,15,15.1,N,22-Jul-16,robinsonsar,22-Jul-16,robinsonsar
+118,1,Lead Adult Care Worker,25,3,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-lead-adult-care-worker,1,1.3,N,22-Jul-16,robinsonsar,22-Jul-16,robinsonsar
+119,1,Adult Care Worker,25,2,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-adult-care-worker,1,1.3,N,22-Jul-16,robinsonsar,22-Jul-16,robinsonsar
+120,1,Travel Consultant,53,3,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-travel-consultant,8,8.2,N,22-Jul-16,robinsonsar,22-Jul-16,robinsonsar
+121,1,Airside Operator,26,2,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-airside-operator,4,4.3,N,01-Aug-16,robinsonsar,01-Aug-16,robinsonsar
+122,1,Customer Service Practitioner,54,2,01-Aug-15,,,https://www.gov.uk/government/publications/apprenticeship-standard-customer-service-practitioner,15,15.2,N,01-Aug-16,robinsonsar,01-Aug-16,robinsonsar
+123,1,Aviation Operations Manager,26,4,01-Aug-16,,,https://www.gov.uk/government/publications/apprenticeship-standard-aviation-operations-manager,4,4.3,N,15-Aug-16,robinsonsar,15-Aug-16,robinsonsar
+124,1,Highway Electrician / Service Operative,55,3,01-Aug-16,,,https://www.gov.uk/government/publications/apprenticeship-standard-highway-electrician-service-operative,5,5.2,N,15-Aug-16,robinsonsar,15-Aug-16,robinsonsar
+125,1,Highway Electrical Maintenance and Installation Operative,55,2,01-Aug-16,,,https://www.gov.uk/government/publications/apprenticeship-standard-highway-electrical-maintenance-installation-operative,5,5.2,N,15-Aug-16,robinsonsar,15-Aug-16,robinsonsar
+126,1,Fire Emergency and Security Systems Technician,56,3,01-Aug-16,,,https://www.gov.uk/government/publications/apprenticeship-standard-fire-emergency-security-systems-technician,4,4.1,N,15-Aug-16,robinsonsar,15-Aug-16,robinsonsar
+127,1,Electrical Power Protection and Plant Commissioning Engineer,8,4,01-Aug-16,,,https://www.gov.uk/government/publications/apprenticeship-standard-electrical-power-protection-and-plant-commissioning-engineer,4,4.1,N,19-Aug-16,robinsonsar,19-Sep-16,robinsonsar
+128,1,Associate Project Manager,57,4,01-Aug-16,,,https://www.gov.uk/government/publications/apprenticeship-standard-associate-project-manager,15,15.3,N,19-Aug-16,robinsonsar,19-Aug-16,robinsonsar
+129,1,Food and Drink Advanced Process Operator,5,3,01-Aug-16,,,https://www.gov.uk/government/publications/apprenticeship-standard-food-drink-advanced-process-operator,7,7.4,N,26-Aug-16,fisherk,26-Aug-16,fisherk
+130,1,Food and Drink Process Operator,5,2,01-Aug-16,,,https://www.gov.uk/government/publications/apprenticeship-standard-food-drink-process-operator,7,7.4,N,26-Aug-16,fisherk,26-Aug-16,fisherk
+131,1,Food Technologist,5,3,01-Aug-16,,,https://www.gov.uk/government/publications/apprenticeship-standard-food-technologist,7,7.4,N,26-Aug-16,fisherk,26-Aug-16,fisherk
+132,1,Non-destructive Testing (NDT) Operator,37,2,01-Aug-16,,,https://www.gov.uk/government/publications/apprenticeship-standard-non-destructive-testing-ndt-operator,4,4.1,N,26-Aug-16,fisherk,16-Sep-16,fisherk
+133,1,Assistant Accountant,52,3,01-Aug-16,,,https://www.gov.uk/government/publications/apprenticeship-standard-assistant-accountant,15,15.1,N,13-Sep-16,robinsonsar,13-Sep-16,robinsonsar
+134,1,Bus and Coach Engineering Technician,58,3,01-Aug-16,,,https://www.gov.uk/government/publications/apprenticeship-standard-bus-and-coach-engineering-technician,4,4.3,N,13-Sep-16,robinsonsar,13-Sep-16,robinsonsar
+135,1,Heavy Vehicle Service and Maintenance Technician,58,3,01-Aug-16,,,https://www.gov.uk/government/publications/apprenticeship-standard-heavy-vehicle-service-and-maintenance-technician,4,4.3,N,13-Sep-16,robinsonsar,13-Sep-16,robinsonsar
+136,1,Bus and Coach Engineering Manager,58,4,01-Aug-16,,,https://www.gov.uk/government/publications/apprenticeship-standard-bus-and-coach-engineering-manager,4,4.3,N,13-Sep-16,robinsonsar,13-Sep-16,robinsonsar
+137,1,Furniture Manufacturer,59,2,01-Aug-16,,,https://www.gov.uk/government/publications/apprenticeship-standard-furniture-manufacturer,4,4.2,N,13-Sep-16,robinsonsar,13-Sep-16,robinsonsar
+138,1,Hospitality Supervisor,44,3,01-Aug-16,,,https://www.gov.uk/government/publications/apprenticeship-standard-hospitality-supervisor,7,7.4,N,13-Sep-16,robinsonsar,13-Sep-16,robinsonsar
+139,1,Senior Chef Production Cooking,44,3,01-Aug-16,,,https://www.gov.uk/government/publications/apprenticeship-standard-senior-chef-production-cooking,7,7.4,N,13-Sep-16,robinsonsar,13-Sep-16,robinsonsar
+140,1,Retail Team Leader,31,3,01-Aug-16,,,https://www.gov.uk/government/publications/apprenticeship-standard-retail-team-leader,7,7.1,N,13-Sep-16,robinsonsar,13-Sep-16,robinsonsar
+141,1,Aviation Maintenance Mechanic (Military),2,2,01-Aug-16,,,https://www.gov.uk/government/publications/apprenticeship-standard-aviation-maintenance-mechanic-military,4,4.1,N,19-Sep-16,robinsonsar,19-Sep-16,robinsonsar
+142,1,IT Technical Salesperson,7,3,01-Aug-16,,,https://www.gov.uk/government/publications/apprenticeship-standard-it-technical-salesperson-approved-for-delivery,6,6.1,N,19-Sep-16,robinsonsar,19-Sep-16,robinsonsar
+143,1,Compliance / Risk Officer,9,3,01-Aug-16,,,https://www.gov.uk/government/publications/apprenticeship-standard-compliance-risk-officer,15,15.1,N,19-Sep-16,robinsonsar,19-Sep-16,robinsonsar
+144,1,Senior Compliance / Risk Specialist,9,6,01-Aug-16,,,https://www.gov.uk/government/publications/apprenticeship-standard-senior-compliance-risk-specialist,15,15.1,N,19-Sep-16,robinsonsar,19-Sep-16,robinsonsar
+145,1,Sports Turf Operative,60,2,01-Aug-16,,,https://www.gov.uk/government/publications/apprenticeship-standard-sports-turf-operative,3,3.2,N,19-Sep-16,robinsonsar,19-Sep-16,robinsonsar
+146,1,Maintenance and Operations Engineering Technician,8,3,01-Aug-16,,,https://www.gov.uk/government/publications/apprenticeship-standard-maintenance-operations-engineering-technician,5,5.2,N,02-Nov-16,robinsonsar,02-Nov-16,robinsonsar
+147,1,Retail Manager,31,4,01-Aug-16,,,https://www.gov.uk/government/publications/apprenticeship-standard-retail-manager,7,7.1,N,24-Oct-16,fisherk,24-Oct-16,fisherk
+148,1,Advanced Credit Controller / Debt Collection Specialist,9,3,01-Aug-16,,,https://www.gov.uk/government/publications/apprenticeship-standard-advanced-credit-controller-debt-collection-specialist,15,15.1,N,02-Nov-16,robinsonsar,02-Nov-16,robinsonsar
+149,1,Advanced Dairy Technologist,5,5,01-Aug-16,,,https://www.gov.uk/government/publications/apprenticeship-standard-advanced-dairy-technologist-approved-for-delivery,4,4.3,N,02-Nov-16,robinsonsar,02-Nov-16,robinsonsar
+150,1,Healthcare Science Associate,46,4,01-Aug-16,,,https://www.gov.uk/government/publications/apprenticeship-standard-healthcare-science-associate,1,1.3,N,02-Nov-16,robinsonsar,02-Nov-16,robinsonsar
+151,1,Senior Healthcare Support Worker,46,3,01-Aug-16,,,https://www.gov.uk/government/publications/apprenticeship-standard-senior-healthcare-support-worker,1,1.3,N,02-Nov-16,robinsonsar,02-Nov-16,robinsonsar
+152,1,Advanced Butcher,23,3,01-Aug-16,,,https://www.gov.uk/government/publications/apprenticeship-standard-advanced-butcher,7,7.4,N,05-Nov-16,robinsonsar,05-Nov-16,robinsonsar
+153,1,Financial Adviser,9,4,01-Nov-16,,,https://www.gov.uk/government/publications/apprenticeship-standard-financial-adviser-approved-for-delivery,15,15.1,N,06-Dec-16,robinsonsar,13-Dec-16,robinsonsar
+154,1,Software Development Technician,7,3,01-Nov-16,,,https://www.gov.uk/government/publications/apprenticeship-standard-software-development-technician,6,6.1,N,14-Dec-16,robinsonsar,14-Dec-16,robinsonsar
+155,1,Unified Communications Technician,7,3,01-Nov-16,,,https://www.gov.uk/government/publications/apprenticeship-standard-unified-communications-technician,6,6.1,N,14-Dec-16,robinsonsar,14-Dec-16,robinsonsar
+156,1,Associate Ambulance Practitioner,62,4,01-Aug-16,,,https://www.gov.uk/government/publications/apprenticeship-standard-associate-ambulance-practitioner,1,1.3,N,21-Dec-16,guinivas,21-Dec-16,guinivas
+157,1,Hair Professional,63,2,01-Nov-16,,,https://www.gov.uk/government/publications/apprenticeship-standard-hair-professional,7,7.3,N,21-Dec-16,fisherk,21-Dec-16,fisherk
+158,1,Spectacle Maker,64,3,01-Nov-16,,,https://www.gov.uk/government/publications/apprenticeship-standard-spectacle-maker,1,1.3,N,21-Dec-16,fisherk,21-Dec-16,fisherk
+159,1,Event Assistant,61,3,01-Jan-17,,,https://www.gov.uk/government/publications/apprenticeship-standard-event-assistant,9,9.2,N,18-Jan-17,robinsonsar,18-Jan-17,robinsonsar
+160,1,Composites Technician,65,3,01-Feb-17,,,https://www.gov.uk/government/publications/apprenticeship-standard-composites-technician,4,4.2,N,13-Feb-17,robinsonsar,13-Feb-17,robinsonsar
+161,1,Power Engineer,8,7,01-Feb-17,,,https://www.gov.uk/government/publications/apprenticeship-standard-power-engineer-degree-apprenticeship,4,4.1,N,15-Feb-17,robinsonsar,15-Feb-17,robinsonsar
+162,1,Facilities Management Supervisor,66,3,01-Feb-17,,,https://www.gov.uk/government/publications/apprenticeship-standard-facilities-management-supervisor,7,7.3,N,24-Feb-17,robinsonsar,24-Feb-17,robinsonsar
+163,1,Nuclear Technician,15,5,01-Mar-17,,,https://www.gov.uk/government/publications/apprenticeship-standard-nuclear-technician-approved-for-delivery,4,4.2,N,07-Apr-17,robinsonsar,07-Apr-17,robinsonsar
+164,1,Building Services Engineering Installer,67,2,01-Mar-17,,,https://www.gov.uk/government/publications/apprenticeship-standard-building-services-engineering-installer,5,5.2,N,07-Apr-17,robinsonsar,07-Apr-17,robinsonsar
+165,1,IS Business Analyst,7,4,01-Apr-17,,,https://www.gov.uk/government/publications/apprenticeship-standard-is-business-analyst-approved-for-delivery,6,6.1,N,07-Apr-17,robinsonsar,07-Apr-17,robinsonsar
+166,1,Postgraduate Engineer,68,7,01-Apr-17,,,https://www.gov.uk/government/publications/apprenticeship-standard-post-graduate-engineer-approved-for-delivery,4,4.1,N,07-Apr-17,robinsonsar,07-Apr-17,robinsonsar
+167,1,Engineering Technician,68,3,01-Aug-14,,,https://www.gov.uk/government/publications/apprenticeship-standard-engineering-technician-approved-for-delivery,4,4.1,N,07-Apr-17,robinsonsar,14-Apr-17,vijaydek
+168,1,Healthcare Science Practitioner,46,6,01-Apr-17,,,https://www.gov.uk/government/publications/apprenticeship-standard-healthcare-science-practitioner-degree-apprenticeship,1,1.3,N,07-Apr-17,robinsonsar,07-Apr-17,robinsonsar
+169,1,Chef De Partie,44,3,01-Apr-17,,,https://www.gov.uk/government/publications/apprenticeship-standard-chef-de-partie,7,7.1,N,07-Apr-17,robinsonsar,07-Apr-17,robinsonsar
+170,1,Registered Nurse,69,6,01-May-17,,,https://www.gov.uk/government/publications/apprenticeship-standard-registered-nurse-degree-apprenticeship,1,1.2,N,18-May-17,robinsonsar,18-May-17,robinsonsar
+171,1,Construction Steel Fixer,55,2,01-May-17,,,https://www.gov.uk/government/publications/apprenticeship-standard-steel-fixer,4,4.1,N,18-May-17,robinsonsar,18-May-17,robinsonsar
+172,1,Fishmonger,5,2,01-May-17,,,https://www.gov.uk/government/publications/apprenticeship-standard-fishmonger,4,4.2,N,18-May-17,robinsonsar,18-May-17,robinsonsar
+173,1,Building Services Engineering Craftsperson,55,3,01-May-17,,,https://www.gov.uk/government/publications/apprenticeship-standard-building-services-engineering-craftsperson,5,5.2,N,06-Jun-17,robinsonsar,06-Jun-17,robinsonsar
+174,1,Junior Content Producer,70,3,01-May-17,,,https://www.gov.uk/government/publications/apprenticeship-standard-junior-content-producer,9,9.3,N,06-Jun-17,robinsonsar,06-Jun-17,robinsonsar
+175,1,Mineral Processing Mobile and Static Plant Operator,71,2,01-May-17,,,https://www.gov.uk/government/publications/apprenticeship-standard-mineral-processing-mobile-and-static-plant-operator,4,4.2,N,06-Jun-17,robinsonsar,06-Jun-17,robinsonsar
+176,1,Accident Repair Technician,71,3,01-May-17,,,https://www.gov.uk/government/publications/apprenticeship-standard-accident-repair-technician,4,4.3,N,06-Jun-17,robinsonsar,06-Jun-17,robinsonsar
+177,1,Baker,44,2,01-Jun-17,,,https://www.gov.uk/government/publications/apprenticeship-standard-bakery,4,4.2,N,12-Jun-17,robinsonsar,12-Jun-17,robinsonsar
+178,1,Building Services Design Technician,55,3,01-Jun-17,,,https://www.gov.uk/government/publications/apprenticeship-standard-building-services-design-technician,4,4.3,N,12-Jun-17,robinsonsar,12-Jun-17,robinsonsar
+179,1,Animal Technologist,72,3,01-Jun-17,,,https://www.gov.uk/government/publications/apprenticeship-standard-animal-technologist,3,3.3,N,12-Jun-17,robinsonsar,12-Jun-17,robinsonsar
+180,1,Arborist,73,2,01-Jun-17,,,https://www.gov.uk/government/publications/apprenticeship-standard-arborist,3,3.2,N,28-Jun-17,guinivas,28-Jun-17,guinivas
+181,1,Horticulture and Landscape Operative,73,2,01-Jun-17,,,https://www.gov.uk/government/publications/apprenticeship-standard-horticulture-and-landscape-operative,3,3.2,N,28-Jun-17,guinivas,28-Jun-17,guinivas
+182,1,Forest Operative,73,2,01-Jun-17,,,https://www.gov.uk/government/publications/apprenticeship-standard-forest-operative,3,3.2,N,28-Jun-17,guinivas,28-Jun-17,guinivas
+183,1,Bespoke Saddler,70,3,01-Jun-17,,,https://www.gov.uk/government/publications/apprenticeship-standard-bespoke-saddler,4,4.2,N,28-Jun-17,guinivas,28-Jun-17,guinivas
+184,1,Food Industry Technical Professional,71,6,01-Jun-17,,,https://www.gov.uk/government/publications/apprenticeship-standard-food-industry-technical-professional-degree-apprenticeship,2,2.1,N,28-Jun-17,guinivas,28-Jun-17,guinivas
+185,1,Building Services Engineering Ductwork Craftsperson,55,3,01-Aug-17,,,https://www.gov.uk/government/publications/apprenticeship-standard-building-services-engineering-ductwork-craftsperson,5,5.2,N,18-Aug-17,fisherk,18-Aug-17,fisherk
+186,1,Project Controls Technician,71,3,01-Aug-17,,,https://www.gov.uk/government/publications/apprenticeship-standard-project-controls-technician,4,4.1,N,18-Aug-17,fisherk,18-Aug-17,fisherk
+187,1,Metrology Technician,72,3,01-Aug-17,,,https://www.gov.uk/government/publications/apprenticeship-standard-metrology-technician,4,4.2,N,18-Aug-17,fisherk,18-Aug-17,fisherk
+188,1,Rail Infrastructure Operator,48,2,01-Aug-17,,,https://www.gov.uk/government/publications/apprenticeship-standard-rail-infrastructure-operator,4,4.3,N,18-Aug-17,fisherk,18-Aug-17,fisherk
+189,1,"Passenger Transport Driver - bus, coach and rail",48,2,01-Aug-17,,,https://www.gov.uk/government/publications/apprenticeship-standard-passenger-transport-driver-bus-coach-and-rail,4,4.3,N,18-Aug-17,fisherk,18-Aug-17,fisherk
+190,1,HR Consultant / Partner,43,5,01-Aug-17,,,https://www.gov.uk/government/publications/apprenticeship-standard-hr-consultantpartner,15,15.2,N,18-Aug-17,fisherk,18-Aug-17,fisherk
+191,1,HR Support,43,3,01-Aug-17,,,https://www.gov.uk/government/publications/apprenticeship-standard-hr-support,15,15.2,N,01-Sep-17,fisherk,01-Sep-17,fisherk
+192,1,Building Services Engineering Ductwork Installer,55,2,12-Sep-17,,,https://www.gov.uk/government/publications/apprenticeship-standard-building-services-engineering-ductwork-installer,5,5.2,N,13-Sep-17,fisherk,13-Sep-17,fisherk
+193,1,Building Services Engineering Service and Maintenance Engineer,55,3,12-Sep-17,,,https://www.gov.uk/government/publications/apprenticeship-standard-building-services-engineering-service-and-maintenance-engineer,5,5.2,N,13-Sep-17,fisherk,13-Sep-17,fisherk
+194,1,Building Services Engineering Ventilation Hygiene Technician,55,3,12-Sep-17,,,https://www.gov.uk/government/publications/apprenticeship-standard-ventilation-hygiene-technician,5,5.2,N,14-Sep-17,fisherk,14-Sep-17,fisherk
+195,1,Digital Engineering Technician,7,3,18-Sep-17,,,https://www.gov.uk/government/publications/apprenticeship-standard-digital-engineering-technician,5,5.2,N,20-Sep-17,FISHERK,20-Sep-17,FISHERK
+196,1,Business Administrator,75,3,18-Sep-17,,,https://www.gov.uk/government/publications/apprenticeship-standard-business-administrator,15,15.2,N,20-Sep-17,FISHERK,20-Sep-17,FISHERK
+197,1,Organ Builder,71,3,26-Sep-17,,,https://www.gov.uk/government/publications/apprenticeship-standard-organ-builder,4,4.2,N,29-Sep-17,FISHERK,29-Sep-17,FISHERK
+198,1,Building Services Design Engineer,55,6,04-Oct-17,,,https://www.gov.uk/government/publications/apprenticeship-standard-building-services-design-engineer,5,5.2,Y,19-Oct-17,FISHERK,19-Oct-17,FISHERK
+199,1,Civil Engineering Technician,55,3,04-Oct-17,,,https://www.gov.uk/government/publications/apprenticeship-standard-civil-engineering-technician,5,5.2,N,19-Oct-17,FISHERK,19-Oct-17,FISHERK
+200,1,Civil Engineer,55,6,04-Oct-17,,,https://www.gov.uk/government/publications/apprenticeship-standard-civil-engineer-degree-approved-for-delivery,5,5.2,Y,19-Oct-17,FISHERK,19-Oct-17,FISHERK
+201,1,Process Automation Engineer,68,7,16-Oct-17,,,https://www.gov.uk/government/publications/apprenticeship-standard-process-automation-engineer-degree-apprenticeship,4,4.1,Y,19-Oct-17,FISHERK,19-Oct-17,FISHERK
+202,1,Engineering Construction Pipefitter,68,3,16-Oct-17,,,https://www.gov.uk/government/publications/apprenticeship-standard-engineering-construction-pipefitter,4,4.1,N,19-Oct-17,FISHERK,19-Oct-17,FISHERK
+203,1,Teacher,16,6,19-Oct-17,,,https://www.gov.uk/government/publications/apprenticeship-standard-teacher-approved-for-delivery,13,13.1,N,30-Oct-17,FISHERK,30-Oct-17,FISHERK
+204,1,Senior Leader Master's Degree,,,,,,,,,,,,,
+204a,1,Accountancy Taxation Professional,52,7,07-Nov-17,,,https://www.gov.uk/government/publications/apprenticeship-standard-professional-accountant,15,15.1,N,08-Nov-17,FISHERK,08-Nov-17,FISHERK
+205,1,Senior Insurance Professional,27,6,07-Nov-17,,,https://www.gov.uk/government/publications/apprenticeship-standard-senior-insurance-professional,15,15.1,N,08-Nov-17,FISHERK,08-Nov-17,FISHERK
+206,1,Passenger transport onboard and station team member,48,2,14-Nov-17,,,https://www.gov.uk/government/publications/apprenticeship-standard-passenger-transport-onboard-station-team-member,4,4.3,N,15-Nov-17,FISHERK,15-Nov-17,FISHERK
+207,1,Non-Destructive Testing Engineer,37,6,20-Nov-17,,,https://www.instituteforapprenticeships.org/apprenticeship-standards/non-destructive-testing-engineer/,4,4.2,Y,22-Nov-17,FISHERK,22-Nov-17,FISHERK
+208,1,Nursing Associate,69,5,20-Nov-17,,,https://www.instituteforapprenticeships.org/apprenticeship-standards/nursing-associate/,1,1.3,N,22-Nov-17,FISHERK,22-Nov-17,FISHERK
+209,1,Supply Chain Practitioner,51,3,24-Nov-17,,,https://www.instituteforapprenticeships.org/apprenticeship-standards/supply-chain-practitioner-fast-moving-consumer-good-previously-operatormanager/,7,7.2,N,28-Nov-17,FISHERK,28-Nov-17,FISHERK
+210,1,Motor Finance Specialist,9,3,04-Dec-17,,,https://www.instituteforapprenticeships.org/apprenticeship-standards/motor-finance-specialist/,4,4.3,N,05-Dec-17,FISHERK,05-Dec-17,FISHERK
+211,1,Probate Technician,18,4,06-Dec-17,,,https://www.instituteforapprenticeships.org/apprenticeship-standards/probate-technician/,15,15.5,N,07-Dec-17,FISHERK,07-Dec-17,FISHERK
+212,1,"Electrical, Electronic Product Service and Installation Engineer",55,3,06-Dec-17,,,https://www.instituteforapprenticeships.org/apprenticeship-standards/electrical-electronic-product-service-and-installation-engineer/,4,4.1,N,07-Dec-17,FISHERK,07-Dec-17,FISHERK
+213,1,Financial Services Professional,9,6,06-Dec-17,,,https://www.instituteforapprenticeships.org/apprenticeship-standards/financial-services-professional/,15,15.1,N,07-Dec-17,FISHERK,07-Dec-17,FISHERK
+214,1,Passenger Transport Operations Manager,48,4,20-Dec-17,,,https://www.instituteforapprenticeships.org/apprenticeship-standards/passenger-transport-operations-manager/,4,4.3,N,21-Dec-17,FISHERK,21-Dec-17,FISHERK
+215,1,Community Activator Coach,25,2,15-Dec-17,,,https://www.instituteforapprenticeships.org/apprenticeship-standards/community-activator-coach/,8,8.1,N,21-Dec-17,FISHERK,21-Dec-17,FISHERK
+216,1,Electrical Power Networks Engineer,71,4,20-Dec-17,,,https://www.instituteforapprenticeships.org/apprenticeship-standards/electrical-power-networks-engineer-previously-power-networks-engineer/,4,4.1,N,21-Dec-17,FISHERK,21-Dec-17,FISHERK
+217,1,Recruitment Consultant,75,3,20-Dec-17,,,https://www.instituteforapprenticeships.org/apprenticeship-standards/recruitment-consultant/,15,15.2,N,21-Dec-17,FISHERK,21-Dec-17,FISHERK
+218,1,Recruitment Resourcer,75,2,20-Dec-17,,,https://www.instituteforapprenticeships.org/apprenticeship-standards/recruitment-resourcer/,15,15.2,N,21-Dec-17,FISHERK,21-Dec-17,FISHERK
+219,1,Lifting Technician,55,2,01-Dec-17,,,https://www.instituteforapprenticeships.org/apprenticeship-standards/lifting-technician/,5,5.2,N,21-Dec-17,FISHERK,21-Dec-17,FISHERK
+220,1,High Speed Rail and Infrastructure Technician,30,4,27-Dec-17,,,https://www.instituteforapprenticeships.org/apprenticeship-standards/high-speed-rail-infrastructure-technician/,4,4.3,N,02-Jan-18,FISHERK,02-Jan-18,FISHERK
+221,1,Laboratory Scientist,4,6,03-Jan-18,,,https://www.instituteforapprenticeships.org/apprenticeship-standards/laboratory-scientist-new/,4,4.2,N,05-Jan-18,FISHERK,05-Jan-18,FISHERK
+222,1,Commercial Procurement and Supply,29,4,22-Dec-17,,,https://www.instituteforapprenticeships.org/apprenticeship-standards/commercial-procurement-and-supply-formerly-public-sector-commercial-professional/,15,15.1,N,05-Jan-18,FISHERK,05-Jan-18,FISHERK
+223,1,Creative Venue Technician,,,,,,,,,,,,,
+224,1,Leisure Duty Manager,,,,,,,,,,,,,
+225,1,Plumbing and Domestic Heating Technician,55,3,19-Jan-18,,,https://www.instituteforapprenticeships.org/apprenticeship-standards/plumbing-and-domestic-heating-technician/,5,5.2,N,19-Jan-18,KFISHER,19-Jan-18,KFISHER
+226,1,Marine Engineer,68,3,19-Jan-18,,,https://www.instituteforapprenticeships.org/apprenticeship-standards/marine-engineer/,4,4.1,N,19-Jan-18,KFISHER,19-Jan-18,KFISHER
+227,1,Nuclear Operative,15,2,22-Jan-18,,,https://www.instituteforapprenticeships.org/apprenticeship-standards/nuclear-operative/,4,4.1,N,23-Jan-18,KFISHER,23-Jan-18,KFISHER
+ ,1,Leisure Duty Manager,75,3,26-Jan-18,,,https://www.instituteforapprenticeships.org/apprenticeship-standards/leisure-duty-manager/,15,15.3,N,30-Jan-18,KFISHER,30-Jan-18,KFISHER
+ , ,Creative Venue Technician,70,3,26-Jan-18,,,https://www.instituteforapprenticeships.org/apprenticeship-standards/creative-venue-technician/,9,9.2,N,30-Jan-18,KFISHER,30-Jan-18,KFISHER
+230,1,Tunnelling Operative,55,2,26-Jan-18,,,https://www.instituteforapprenticeships.org/apprenticeship-standards/tunnelling-operative/,5,5.2,N,30-Jan-18,KFISHER,30-Jan-18,KFISHER
+231,1,Policy Officer,75,4,02-Feb-18,,,https://www.instituteforapprenticeships.org/apprenticeship-standards/policy-officer/,15,15.2,N,07-Feb-18,KFISHER,07-Feb-18,KFISHER
+232,1,School Business Professional,75,4,05-Feb-18,,,https://www.instituteforapprenticeships.org/apprenticeship-standards/school-business-professional/,15,15.2,N,07-Feb-18,KFISHER,07-Feb-18,KFISHER
+250,,Technician Scientist ,,,,,,,,,,,,,
+251,,Science Manufacturing Process Operative,,,,,,,,,,,,,
+253,,Science Industry Process/Plant Engineer ,,,,,,,,,,,,,
+254,,Laboratory Scientist (Degree) ,,,,,,,,,,,,,
