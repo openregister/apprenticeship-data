@@ -1,10 +1,10 @@
-"","assessment_organisation_type","organisation_type","start_date","end_date"
-"1","1","Assessment Organisation",NA,NA
-"2","2","Awarding Organisation",NA,NA
-"3","3","Employer or trade body",NA,NA
-"4","4","Higher Education Institution",NA,NA
-"5","5","Other",NA,NA
-"6","6","Professional body",NA,NA
-"7","7","Sector Skills Council",NA,NA
-"8","8","Training Provider",NA,NA
-"9","9","Non-departmental public body",NA,NA
+assessment-organisation-type,organisation-type,start-date,end-date
+1,Assessment Organisation,NA,NA
+2,Awarding Organisation,NA,NA
+3,Employer or trade body,NA,NA
+4,Higher Education Institution,NA,NA
+5,Other,NA,NA
+6,Professional body,NA,NA
+7,Sector Skills Council,NA,NA
+8,Training Provider,NA,NA
+9,Non-departmental public body,NA,NA
