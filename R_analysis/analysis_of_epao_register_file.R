@@ -92,7 +92,7 @@ Notes:
 -at the blanks, the number sequence jumps a few numbers.
 '
 #Decision - remove rows that do not have a standardcode
-reg_standardCode_og <- reg_standardCode # a version with the rows intacted
+og_reg_standardCode <- reg_standardCode # a version with the rows intacted
 reg_standardCode <- reg_standardCode[-c(229,230),]
 
 #Filtered dataset for the columns that will remain, and add start/end_date columns
@@ -109,29 +109,67 @@ write.csv(reg_standardCode, file = "assessment_organisation_standard_code.csv")
 
 
 #Reg5 - Transactional Register = assessment_organisation_standard_guide
-standards <- read.csv("epao_register_standards.csv", stringsAsFactors = FALSE)  #readfile
-standards <- standards[,-12]  #remove errorneuos 'X' column
-reg_transactional <- standards  #made a copy,
+og_standards <- read.csv("epao_register_standards.csv", stringsAsFactors = FALSE)  #readfile
+og_standards <- og_standards[,-12]  #remove errorneuos 'X' column
+reg_transactional <- og_standards  #made a copy,
 
 #Joining 'Delivery Area' onto db, joining on 'Standard Code' from 'reg_standardCode
-reg_transactional <- reg_transactional %>% left_join(delivery_map_to_stand_code,by = "Standard_code")
+xx <- reg_deliveryArea %>% select(delivery_area,assessment_organisation_delivery_area)
+xx <- rename(xx,"Delivery_area" = 'delivery_area')
+epao_delivery_areas <- read.csv("epao_register_delivery_areas.csv", stringsAsFactors = FALSE, header = TRUE)
+epao_delivery_areas <- epao_delivery_areas[-c(494:580),] #remove the empty rows at the bottom of sheet
+
+reg_transactional <- reg_transactional %>% left_join(epao_delivery_areas, by = c("EPA_organisation_identifier","Standard_code"))
 reg_transactional <- reg_transactional %>% left_join(xx,by = "Delivery_area")
 
-#selecting for final version of register
-reg_transactional <- reg_transactional %>% select(EPA_organisation_identifier, Standard_code, Index)
+#renaming fields, and adding register standard fields
 reg_transactional$start_date <- NA
 reg_transactional$end_date <- NA
 reg_transactional <- rename(reg_transactional, assessment_organisation_delivery_area = Delivery_area)
 reg_transactional <- rename(reg_transactional, assessment_organisations_standard_code = Standard_code)
 reg_transactional <- rename(reg_transactional, assessment_organisation = EPA_organisation_identifier)
-#Add an index to table
+#Add an index to table, and renaming field
 reg_transactional$index <- seq.int(nrow(reg_transactional))
-reg_transactional <- rename(reg_transactional, assessment_organisation_standard_guide = index)  #rename 'index' to 'assessment_organisation_standard_guide' 
-#reorder fields
-reg_transactional <- reg_transactional %>% select(assessment_organisation_standard_guide,assessment_organisation,assessment_organisations_standard_code,assessment_organisation_delivery_area,start_date,end_date)
-#rename register to 'assessment_organisation_standard_guide'
-assessment_organisation_standard_guide <- reg_transactional
+reg_transactional <- rename(reg_transactional, assessment_organisation_apprenticeship = index)  #rename 'index' to 'assessment_organisation_standard_guide' 
 
-#write csv
-write.csv(assessment_organisation_standard_guide, file = "assessment_organisation_standard_guide.csv")
+# !! - before removing fields, resolve the 'NA' cells in 'assessment_organisation_delivery_area' field
+
+#reorder and selecting fields
+assessment_organisation_apprenticeship <- reg_transactional  ## make a copy
+assessment_organisation_apprenticeship <- assessment_organisation_apprenticeship %>% select(assessment_organisation_apprenticeship,assessment_organisation,assessment_organisations_standard_code,assessment_organisation_delivery_area,start_date,end_date)
+#rename register to 'assessment_organisation_apprenticeship'
+assessment_organisation_apprenticeship <- rename(assessment_organisation_apprenticeship, "assessment_organisation_apprenticeship" = assessment_organisation_standard_guide)
+#write to csv:
+write.csv(assessment_organisation_apprenticeship, file = "assessment_organisation_apprenticeship.csv")
+
+
+# Checking:
+"
+[x] Reg1 - reg_organisation = 'assessment-organisation'
+[x] Reg2 - reg_orgtype = assessment-organisation-type
+[x] Reg3 - reg_deliveryArea = assessment_organisation_delivery_area
+[x] Reg4 - reg_standardCode = assessment_organisations_standard_code
+[] Reg5 - Transactional Register = assessment_organisation_standard_guide
+"
+
+# Errors found:
+"
+# reg_standardCode
+- found duplicate entries for 'Laboratory Scientist'(44,221) and 'Welding'(94,95). Will delete the latter of each and update other records with the correct value
+# reg_transactional
+- found record with incorrect index for standard code row:3197, update 221 to 44.
+- Incomplete join of 'delivery_area' column, some rows missing values
+- for some rows, 'delivery_area' has multiple entries. have to find a way to show this.
+"
+##reg_transactional$assessment_organisation_standard_code[3197] <- 221 ## Do not action! - appears to be an update to 221, Query!
+
+# Error correction 
+##attempting join again after removing the empyt rows.
+xx <- reg_deliveryArea %>% select(delivery_area,assessment_organisation_delivery_area)
+xx <- rename(xx,"Delivery_area" = 'delivery_area')
+epao_delivery_areas <- read.csv("epao_register_delivery_areas.csv", stringsAsFactors = FALSE, header = TRUE)
+epao_delivery_areas <- epao_delivery_areas[-c(494:580),] #remove the empty rows at the bottom of sheet
+
+reg_transactional <- reg_transactional %>% left_join(epao_delivery_areas, by = c("EPA_organisation_identifier","Standard_code"))
+reg_transactional <- reg_transactional %>% left_join(xx,by = "Delivery_area")
 
