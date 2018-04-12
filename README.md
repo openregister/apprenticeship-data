@@ -5,6 +5,8 @@ end-point assessment organisations).
 
 [List](https://drive.google.com/open?id=0B3Ydc_s3yHN3RWNlUDZkeFFZak11MERKQlRHc0dtYzI4R0xV) from the custodian.
 
+`UKRPN` : according to the [UK Register of Learning Providers](https://www.ukrlp.co.uk/), a UKRPN is the 'UK Provide Reference Number'. This is the unique identifier used to share information with the UKRLP partner agencies.
+
 ## Licence
 
 Unless stated otherwise, the codebase is released under [the MIT licence](./LICENSE).
