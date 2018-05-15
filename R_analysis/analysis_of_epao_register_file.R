@@ -18,6 +18,9 @@ reg_organisation <- reg_organisation %>% rename(organisation_type = Org_type)
 reg_organisation <- reg_organisation %>% rename(uprn = UPRN)
 reg_organisation <- reg_organisation %>% rename(address = uprn)
 
+# Reorder columns
+reg_organisation <-  reg_organisation %>% select(assessment_organisation,organisation_name, ukprn,  organisation_type, address, start_date, end_date)
+
 #write csv
 write.csv(reg_organisation, file = "assessment-organisation.csv")
 
@@ -85,12 +88,12 @@ reg_standardCode <- read.csv('epao_register_standards_lookups.csv',header = TRUE
 #how many unique values under 'StandardCode':
 length(unique(reg_standardCode$StandardCode)) ## 236
 length(reg_standardCode$StandardCode) ## 237
-'
-Notes:
--entries are not sequential. sequence breaks as of 204, due to a "204a" at #205
--there are two rows with a blank standard code
--at the blanks, the number sequence jumps a few numbers.
-'
+
+# Notes:
+# -entries are not sequential. sequence breaks as of 204, due to a "204a" at #205
+# -there are two rows with a blank standard code
+# -at the blanks, the number sequence jumps a few numbers.
+
 #Decision - remove rows that do not have a standardcode
 og_reg_standardCode <- reg_standardCode # a version with the rows intacted
 reg_standardCode <- reg_standardCode[-c(229,230),]
@@ -144,23 +147,22 @@ write.csv(assessment_organisation_apprenticeship, file = "assessment_organisatio
 
 
 # Checking:
-"
-[x] Reg1 - reg_organisation = 'assessment-organisation'
-[x] Reg2 - reg_orgtype = assessment-organisation-type
-[x] Reg3 - reg_deliveryArea = assessment_organisation_delivery_area
-[x] Reg4 - reg_standardCode = assessment_organisations_standard_code
-[] Reg5 - Transactional Register = assessment_organisation_standard_guide
-"
+# [x] Reg1 - reg_organisation = 'assessment-organisation'
+# [x] Reg2 - reg_orgtype = assessment-organisation-type
+# [x] Reg3 - reg_deliveryArea = assessment_organisation_delivery_area
+# [x] Reg4 - reg_standardCode = assessment_organisations_standard_code
+# [x] Reg5 - Transactional Register = assessment_organisation_apprenticeship
+
 
 # Errors found:
-"
-# reg_standardCode
-- found duplicate entries for 'Laboratory Scientist'(44,221) and 'Welding'(94,95). Will delete the latter of each and update other records with the correct value
-# reg_transactional
-- found record with incorrect index for standard code row:3197, update 221 to 44.
-- Incomplete join of 'delivery_area' column, some rows missing values
-- for some rows, 'delivery_area' has multiple entries. have to find a way to show this.
-"
+# # reg_standardCode
+# - found duplicate entries for 'Laboratory Scientist'(44,221) and 'Welding'(94,95). Will delete the latter of each and update other records with the correct value
+reg_standardCode$standard_name[duplicated(reg_standardCode$standard_name)]
+# # reg_transactional
+# - found record with incorrect index for standard code row:3197, update 221 to 44.
+# - Incomplete join of 'delivery_area' column, some rows missing values
+# - for some rows, 'delivery_area' has multiple entries. have to find a way to show this.
+
 ##reg_transactional$assessment_organisation_standard_code[3197] <- 221 ## Do not action! - appears to be an update to 221, Query!
 
 # Error correction 
@@ -173,3 +175,29 @@ epao_delivery_areas <- epao_delivery_areas[-c(494:580),] #remove the empty rows 
 reg_transactional <- reg_transactional %>% left_join(epao_delivery_areas, by = c("EPA_organisation_identifier","Standard_code"))
 reg_transactional <- reg_transactional %>% left_join(xx,by = "Delivery_area")
 
+
+### 08/05/18
+## Load new data for Apprenticeship Standards code.
+# Load file:
+ifa_apprenticeshipStandards <- read_excel('../lists/ApprenticeshipStandards.xlsx', col_types = 'text',skip = 1)
+# subset the ifa data for name and reference:
+og_ifa <- ifa_apprenticeshipStandards[,1:2]
+
+# join onto reg_standard
+Joined <- og_ifa %>% left_join(reg_standardCode, by = c('Name'='standard_name'))
+###only 60 hits were acheived via this join, some obvious mataches were missed, need to improve, join critera.
+# add column that removes whites spaces from both tables, and format text to be all lower case.
+og_ifa$joining <- tolower(gsub(" ", "", og_ifa$Name, fixed = TRUE))
+reg_standardCode$joining <- tolower(gsub(" ","", reg_standardCode$standard_name, fixed = TRUE))
+# attempt join again
+Joined <- og_ifa %>% left_join(reg_standardCode, by = 'joining')
+# document the failed joins
+failedJoins <- Joined$Name[is.na(Joined$standard_name)]
+length(failedJoins) # 356 of 547 -- Questionable, considering reg_standardCode has only 235 records, points to duplication
+Joined_dups <- table(Joined$Name)
+
+# prove which standards are present in both lists, and which aren't(og_ifa, reg_standardCode).
+Joined_success <- Joined %>% filter(is.na(Joined$assessment_organisation_standard_code) == FALSE) # a list of succesful joins, 191 records
+Joined_fail <-  Joined %>% filter(is.na(Joined$assessment_organisation_standard_code) == TRUE) # a list of unsuccessful joins, 356 records
+
+anti_join(reg_standardCode, og_ifa, by = 'joining')

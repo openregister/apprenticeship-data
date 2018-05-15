@@ -1,2 +1,18 @@
-lists/EPAO Register-New format-February2018.xlsx
+.DS_Store
+.Rhistory
+data/.DS_Store
+lists/ApprenticeshipStandards.xlsx
+lists/EPAO Register-New format-February2018_FrankAnalysis.xlsx
+r_analysis/.DS_Store
+r_analysis/.RData
+r_analysis/.Rhistory
+r_analysis/RAnalysis_ApprenticeshipAssessment.Rproj
+r_analysis/addressmatching.R
+r_analysis/assessment-organisation-type.csv
+r_analysis/assessment-organisation.csv
+r_analysis/assessment_organisation_apprenticeship.csv
+r_analysis/assessment_organisation_delivery_area.csv
+r_analysis/assessment_organisation_standard_code.csv
+r_analysis/~$org_addresses_for_address-matching.xlsxlists/EPAO Register-New format-February2018.xlsx
 .Rproj.user
+r_analysis/~$org_addresses_for_address-matching.xlsx
