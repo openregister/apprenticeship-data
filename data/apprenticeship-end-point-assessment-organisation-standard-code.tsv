@@ -1,236 +1,236 @@
-assessment-end-point-organisation-standard-code	apprenticeship-standard	name	start-date	end-date
-1	ST0127	Network Engineer		
-2	ST0116	Software Developer		
-3		Aerospace Manufacturing Fitter		
-4		Mechatronics Maintenance Technician		
-5	ST0152	Installation Electrician/Maintenance Electrician		
-6	ST0156	Power Network Craftsperson		
-7	ST0184	Relationship Manager (Banking)		
-8	ST0177	Financial Services Administrator		
-9		Control /Technical Support Engineer		
-10		Electrical /Electronic Technical Support Engineer		
-11		Manufacturing Engineer		
-12		Product Design and Development Engineer		
-13		Product Design and Development Technician		
-14	ST0248	Laboratory Technician		
-15	ST0250	Science Manufacturing Technician		
-16	ST0195	Food and Drink Maintenance Engineer		
-17	ST0004	Actuarial Technician		
-18	ST0108	Dental Technician		
-19	ST0110	Dental Laboratory Assistant		
-20	ST0109	Dental Practice Manager		
-21	ST0209	Golf Greenkeeper		
-22	ST0285	Junior Journalist		
-23	ST0171	Property Maintenance Operative		
-24	ST0315	Railway Engineering Design Technician		
-25		Digital and Technology Solutions Professional		
-26	ST0158	Dual Fuel Smart Meter Installer		
-27	ST0160	Water Process Technician		
-28	ST0178	Financial Services Customer Adviser		
-29	ST0179	Investment Operations Administrator		
-30	ST0180	Investment Operations Specialist		
-31	ST0185	Senior Financial Services Customer Adviser		
-32	ST0187	Workplace Pensions (Administrator or Consultant)		
-33	ST0181	Investment Operations Technician		
-34	ST0274	Able Seafarer (Deck)		
-35	ST0292	Nuclear Welding Inspection Technician		
-36	ST0314	Public Service Operational Delivery Officer		
-37		Aerospace Engineer		
-38		Aerospace Software Development Engineer		
-39	ST0100	Conveyancing Technician		
-40	ST0101	Licensed Conveyancer		
-41	ST0244	Chartered Legal Executive		
-42	ST0245	Paralegal		
-43	ST0246	Solicitor		
-44	ST0247	Laboratory Scientist		
-45	ST0249	Science Industry Maintenance Technician		
-46	ST0290	Nuclear Health Physics Monitor		
-47		Nuclear Scientist and Nuclear Engineer		
-48	ST0183	Paraplanner		
-49	ST0322	Refrigeration Air Conditioning and Heat Pump Engineering Technician		
-50		Chartered Surveyor		
-51	ST0332	Surveying Technician		
-52	ST0107	Systems Engineering Masters Level		
-53	ST0159	Utilities Engineering Technician		
-54	ST0078	Butcher		
-55		Chartered Manager Degree Apprenticeship		
-56		Aerospace Manufacturing Electrical, Mechanical and Systems Fitter		
-57	ST0205	Gas Network Craftsperson		
-58	ST0204	Gas Network Team Leader		
-59	ST0033	Motor Vehicle Service and Maintenance Technician (light vehicle)		
-60	ST0240	Insurance Practitioner		
-61	ST0113	Dental Nurse		
-62	ST0182	Mortgage Adviser		
-63	ST0241	Insurance Professional		
-64	ST0235	Housing/Property Management Assistant		
-65	ST0234	Housing/Property Management		
-66	ST0236	Senior Housing/Property Management		
-67	ST0288	Non-destructive Testing Engineering Technician		
-68	ST0161	Junior Energy Manager		
-69	ST0242_03	Land-Based Service Engineer		
-70	ST0243	Land-Based Service Engineering Technician		
-71	ST0256	Live Event Rigger		
-72	ST0055	Bespoke Tailor and Cutter		
-73		Public Sector Commercial Professional		
-74	ST0155	Gas Engineering		
-75		Outside Broadcasting Engineer		
-76	ST0059	Boatbuilder		
-77	ST0176	Credit Controller/Collector		
-78	ST0122	Digital Marketer		
-79	ST0114	Cyber Intrusion Analyst		
-80	ST0118	Data Analyst		
-81	ST0131	Unified Communications Trouble Shooter		
-82	ST0125	Infrastructure Technician		
-83	ST0273	Junior Management Consultant		
-84	ST0347	Junior 2D Artist (visual effects)		
-85	ST0346	Assistant Technical Director (visual effects)		
-86	ST0038	Aviation Ground Specialist		
-87	ST0037	Aviation Ground Operative		
-88	ST0316	Rail Engineering Advanced Technician		
-89	ST0318	Rail Engineering Technician		
-90	ST0317	Rail Engineering Operative		
-91	ST0129	Software Tester		
-92	ST0164	Engineering Design and Draughtsperson		
-93	ST0228	Commis Chef		
-94		Welding		
-95		Welding		
-96	ST0233	Hospitality Team Member		
-97		Machinist (Advanced Manufacturing Engineering)		
-98	ST0124	Cyber Security Technologist		
-99	ST0218	Healthcare Science Assistant		
-100	ST0336	Transport Planning Technician		
-101	ST0327	Retailer		
-102	ST0215	Healthcare Assistant Practitioner		
-103	ST0216	Healthcare Support Worker		
-104	ST0385	Operations/Departmental Manager		
-105	ST0384	Team Leader/Supervisor		
-106	ST0296	Papermaker		
-107		Embedded Electronic Systems Design and Development Engineer		
-108	ST0222	HM Forces Serviceperson (Public Services)		
-109	ST0258	Supply Chain Operator		
-110	ST0257	Large Goods Vehicle (LGV) Driver		
-111	ST0259	Supply Chain Warehouse Operative		
-112	ST0341	Broadcast Production Assistant		
-113		Aircraft Maintenance Fitter / Technician (fixed and rotary wing)		
-114	ST0019	Aircraft Maintenance Certifying Engineer		
-115		Airworthiness Planning, Quality and Safety Technician		
-116	ST0015	Survival Equipment Fitter		
-117	ST0003	Professional Accounting Taxation Technician		
-118	ST0006-02	Lead Adult Care Worker		
-119	ST0005-02	Adult Care Worker		
-120	ST0340	Travel Consultant		
-121	ST0036	Airside Operator		
-122	ST0072	Customer Service Practitioner		
-123	ST0039	Aviation Operations Manager		
-124		Highway Electrician / Service Operative		
-125	ST0051	Highway Electrical Maintenance and Installation Operative		
-126	ST0189	Fire Emergency and Security Systems Technician		
-127	ST0157	Electrical Power Protection and Plant Commissioning Engineer		
-128	ST0310_02	Associate Project Manager		
-129	ST0196	Food and Drink Advanced Process Operator		
-130	ST0199	Food and Drink Process Operator		
-131	ST0198	Food Technologist		
-132	ST0358	Non-destructive Testing (NDT) Operator		
-133	ST0002	Assistant Accountant		
-134	ST0067	Bus and Coach Engineering Technician		
-135	ST0068	Heavy Vehicle Service and Maintenance Technician		
-136		Bus and Coach Engineering Manager		
-137	ST0203	Furniture Manufacturer		
-138	ST0230	Hospitality Supervisor		
-139	ST0232	Senior Chef Production Cooking		
-140	ST0326	Retail Team Leader		
-141	ST0014	Aviation Maintenance Mechanic (Military)		
-142	ST0115	IT Technical Salesperson		
-143	ST0362	Compliance / Risk Officer		
-144	ST0363	Senior Compliance / Risk Specialist		
-145	ST0210	Sports Turf Operative		
-146	ST0154	Maintenance and Operations Engineering Technician		
-147	ST0325	Retail Manager		
-148	ST0175	Advanced Credit Controller / Debt Collection Specialist		
-149	ST0393	Advanced Dairy Technologist		
-150	ST0220	Healthcare Science Associate		
-151	ST0217	Senior Healthcare Support Worker		
-152	ST0077	Advanced Butcher		
-153	ST0374	Financial Adviser		
-154	ST0128	Software Development Technician		
-155	ST0130	Unified Communications Technician		
-156	ST0287	Associate Ambulance Practitioner		
-157	ST0213	Hair Professional		
-158	ST0383	Spectacle Maker		
-159	ST0168	Event Assistant		
-160	ST0094	Composites Technician		
-161		Power Engineer		
-162	ST0170	Facilities Management Supervisor		
-163	ST0380	Nuclear Technician		
-164	ST0065	Building Services Engineering Installer		
-165	ST0117	IS Business Analyst		
-166		Postgraduate Engineer		
-167	ST0457	Engineering Technician		
-168		Healthcare Science Practitioner		
-169	ST0227	Chef De Partie		
-170		Registered Nurse		
-171		Construction Steel Fixer		
-172	ST0194	Fishmonger		
-173	ST0062	Building Services Engineering Craftsperson		
-174	ST0105	Junior Content Producer		
-175	ST0144	Mineral Processing Mobile and Static Plant Operator		
-176	ST0352	Accident Repair Technician		
-177	ST0191	Baker		
-178	ST0063	Building Services Design Technician		
-179	ST0058	Animal Technologist		
-180	ST0223	Arborist		
-181	ST0225	Horticulture and Landscape Operative		
-182	ST0224	Forest Operative		
-183	ST0328	Bespoke Saddler		
-184		Food Industry Technical Professional		
-185	ST0064	Building Services Engineering Ductwork Craftsperson		
-186	ST0163	Project Controls Technician		
-187	ST0282	Metrology Technician		
-188	ST0419	Rail Infrastructure Operator		
-189		Passenger Transport Driver - bus, coach and rail		
-190	ST0238	HR Consultant / Partner		
-191	ST0239	HR Support		
-192	ST0060	Building Services Engineering Ductwork Installer		
-193	ST0061	Building Services Engineering Service and Maintenance Engineer		
-194	ST0391	Building Services Engineering Ventilation Hygiene Technician		
-195	ST0266	Digital Engineering Technician		
-196	ST0070	Business Administrator		
-197	ST0382	Organ Builder		
-198		Building Services Design Engineer		
-199	ST0091	Civil Engineering Technician		
-200		Civil Engineer		
-201		Process Automation Engineer		
-202	ST0162	Engineering Construction Pipefitter		
-203	ST0490	Teacher		
-204		Senior Leader Master's Degree		
-204a		Accountancy Taxation Professional		
-205	ST0520	Senior Insurance Professional		
-206		Passenger transport onboard and station team member		
-207		Non-Destructive Testing Engineer		
-208	ST0508	Nursing Associate		
-209		Supply Chain Practitioner		
-210	ST0474	Motor Finance Specialist		
-211	ST0102	Probate Technician		
-212		Electrical, Electronic Product Service and Installation Engineer		
-213	ST0472	Financial Services Professional		
-214	ST0337	Passenger Transport Operations Manager		
-215	ST0478	Community Activator Coach		
-216		Electrical Power Networks Engineer		
-217	ST0320	Recruitment Consultant		
-218	ST0321	Recruitment Resourcer		
-219	ST0267	Lifting Technician		
-220		High Speed Rail and Infrastructure Technician		
-221	ST0247	Laboratory Scientist		
-222		Commercial Procurement and Supply		
-223	ST0106	Creative Venue Technician		
-224	ST0301	Leisure Duty Manager		
-225	ST0303	Plumbing and Domestic Heating Technician		
-226	ST0364	Marine Engineer		
-227	ST0291	Nuclear Operative		
-230	ST0375	Tunnelling Operative		
-231	ST0526_02	Policy Officer		
-232	ST0575	School Business Professional		
-250	ST0597	Technician Scientist 		
-251	ST0422	Science Manufacturing Process Operative		
-253		Science Industry Process/Plant Engineer 		
-254	ST0626	Laboratory Scientist (Degree) 		
+apprenticeship-assessment-end-point-organisation-standard-code	name	apprenticeship-standard	start-date	end-date
+1	Network Engineer	ST0127		
+2	Software Developer	ST0116		
+3	Aerospace Manufacturing Fitter			
+4	Mechatronics Maintenance Technician			
+5	Installation Electrician/Maintenance Electrician	ST0152		
+6	Power Network Craftsperson	ST0156		
+7	Relationship Manager (Banking)	ST0184		
+8	Financial Services Administrator	ST0177		
+9	Control /Technical Support Engineer			
+10	Electrical /Electronic Technical Support Engineer			
+11	Manufacturing Engineer			
+12	Product Design and Development Engineer			
+13	Product Design and Development Technician			
+14	Laboratory Technician	ST0248		
+15	Science Manufacturing Technician	ST0250		
+16	Food and Drink Maintenance Engineer	ST0195		
+17	Actuarial Technician	ST0004		
+18	Dental Technician	ST0108		
+19	Dental Laboratory Assistant	ST0110		
+20	Dental Practice Manager	ST0109		
+21	Golf Greenkeeper	ST0209		
+22	Junior Journalist	ST0285		
+23	Property Maintenance Operative	ST0171		
+24	Railway Engineering Design Technician	ST0315		
+25	Digital and Technology Solutions Professional			
+26	Dual Fuel Smart Meter Installer	ST0158		
+27	Water Process Technician	ST0160		
+28	Financial Services Customer Adviser	ST0178		
+29	Investment Operations Administrator	ST0179		
+30	Investment Operations Specialist	ST0180		
+31	Senior Financial Services Customer Adviser	ST0185		
+32	Workplace Pensions (Administrator or Consultant)	ST0187		
+33	Investment Operations Technician	ST0181		
+34	Able Seafarer (Deck)	ST0274		
+35	Nuclear Welding Inspection Technician	ST0292		
+36	Public Service Operational Delivery Officer	ST0314		
+37	Aerospace Engineer			
+38	Aerospace Software Development Engineer			
+39	Conveyancing Technician	ST0100		
+40	Licensed Conveyancer	ST0101		
+41	Chartered Legal Executive	ST0244		
+42	Paralegal	ST0245		
+43	Solicitor	ST0246		
+44	Laboratory Scientist	ST0247		
+45	Science Industry Maintenance Technician	ST0249		
+46	Nuclear Health Physics Monitor	ST0290		
+47	Nuclear Scientist and Nuclear Engineer			
+48	Paraplanner	ST0183		
+49	Refrigeration Air Conditioning and Heat Pump Engineering Technician	ST0322		
+50	Chartered Surveyor			
+51	Surveying Technician	ST0332		
+52	Systems Engineering Masters Level	ST0107		
+53	Utilities Engineering Technician	ST0159		
+54	Butcher	ST0078		
+55	Chartered Manager Degree Apprenticeship			
+56	Aerospace Manufacturing Electrical, Mechanical and Systems Fitter			
+57	Gas Network Craftsperson	ST0205		
+58	Gas Network Team Leader	ST0204		
+59	Motor Vehicle Service and Maintenance Technician (light vehicle)	ST0033		
+60	Insurance Practitioner	ST0240		
+61	Dental Nurse	ST0113		
+62	Mortgage Adviser	ST0182		
+63	Insurance Professional	ST0241		
+64	Housing/Property Management Assistant	ST0235		
+65	Housing/Property Management	ST0234		
+66	Senior Housing/Property Management	ST0236		
+67	Non-destructive Testing Engineering Technician	ST0288		
+68	Junior Energy Manager	ST0161		
+69	Land-Based Service Engineer	ST0242_03		
+70	Land-Based Service Engineering Technician	ST0243		
+71	Live Event Rigger	ST0256		
+72	Bespoke Tailor and Cutter	ST0055		
+73	Public Sector Commercial Professional			
+74	Gas Engineering	ST0155		
+75	Outside Broadcasting Engineer			
+76	Boatbuilder	ST0059		
+77	Credit Controller/Collector	ST0176		
+78	Digital Marketer	ST0122		
+79	Cyber Intrusion Analyst	ST0114		
+80	Data Analyst	ST0118		
+81	Unified Communications Trouble Shooter	ST0131		
+82	Infrastructure Technician	ST0125		
+83	Junior Management Consultant	ST0273		
+84	Junior 2D Artist (visual effects)	ST0347		
+85	Assistant Technical Director (visual effects)	ST0346		
+86	Aviation Ground Specialist	ST0038		
+87	Aviation Ground Operative	ST0037		
+88	Rail Engineering Advanced Technician	ST0316		
+89	Rail Engineering Technician	ST0318		
+90	Rail Engineering Operative	ST0317		
+91	Software Tester	ST0129		
+92	Engineering Design and Draughtsperson	ST0164		
+93	Commis Chef	ST0228		
+94	Welding			
+95	Welding			
+96	Hospitality Team Member	ST0233		
+97	Machinist (Advanced Manufacturing Engineering)			
+98	Cyber Security Technologist	ST0124		
+99	Healthcare Science Assistant	ST0218		
+100	Transport Planning Technician	ST0336		
+101	Retailer	ST0327		
+102	Healthcare Assistant Practitioner	ST0215		
+103	Healthcare Support Worker	ST0216		
+104	Operations/Departmental Manager	ST0385		
+105	Team Leader/Supervisor	ST0384		
+106	Papermaker	ST0296		
+107	Embedded Electronic Systems Design and Development Engineer			
+108	HM Forces Serviceperson (Public Services)	ST0222		
+109	Supply Chain Operator	ST0258		
+110	Large Goods Vehicle (LGV) Driver	ST0257		
+111	Supply Chain Warehouse Operative	ST0259		
+112	Broadcast Production Assistant	ST0341		
+113	Aircraft Maintenance Fitter / Technician (fixed and rotary wing)			
+114	Aircraft Maintenance Certifying Engineer	ST0019		
+115	Airworthiness Planning, Quality and Safety Technician			
+116	Survival Equipment Fitter	ST0015		
+117	Professional Accounting Taxation Technician	ST0003		
+118	Lead Adult Care Worker	ST0006-02		
+119	Adult Care Worker	ST0005-02		
+120	Travel Consultant	ST0340		
+121	Airside Operator	ST0036		
+122	Customer Service Practitioner	ST0072		
+123	Aviation Operations Manager	ST0039		
+124	Highway Electrician / Service Operative			
+125	Highway Electrical Maintenance and Installation Operative	ST0051		
+126	Fire Emergency and Security Systems Technician	ST0189		
+127	Electrical Power Protection and Plant Commissioning Engineer	ST0157		
+128	Associate Project Manager	ST0310_02		
+129	Food and Drink Advanced Process Operator	ST0196		
+130	Food and Drink Process Operator	ST0199		
+131	Food Technologist	ST0198		
+132	Non-destructive Testing (NDT) Operator	ST0358		
+133	Assistant Accountant	ST0002		
+134	Bus and Coach Engineering Technician	ST0067		
+135	Heavy Vehicle Service and Maintenance Technician	ST0068		
+136	Bus and Coach Engineering Manager			
+137	Furniture Manufacturer	ST0203		
+138	Hospitality Supervisor	ST0230		
+139	Senior Chef Production Cooking	ST0232		
+140	Retail Team Leader	ST0326		
+141	Aviation Maintenance Mechanic (Military)	ST0014		
+142	IT Technical Salesperson	ST0115		
+143	Compliance / Risk Officer	ST0362		
+144	Senior Compliance / Risk Specialist	ST0363		
+145	Sports Turf Operative	ST0210		
+146	Maintenance and Operations Engineering Technician	ST0154		
+147	Retail Manager	ST0325		
+148	Advanced Credit Controller / Debt Collection Specialist	ST0175		
+149	Advanced Dairy Technologist	ST0393		
+150	Healthcare Science Associate	ST0220		
+151	Senior Healthcare Support Worker	ST0217		
+152	Advanced Butcher	ST0077		
+153	Financial Adviser	ST0374		
+154	Software Development Technician	ST0128		
+155	Unified Communications Technician	ST0130		
+156	Associate Ambulance Practitioner	ST0287		
+157	Hair Professional	ST0213		
+158	Spectacle Maker	ST0383		
+159	Event Assistant	ST0168		
+160	Composites Technician	ST0094		
+161	Power Engineer			
+162	Facilities Management Supervisor	ST0170		
+163	Nuclear Technician	ST0380		
+164	Building Services Engineering Installer	ST0065		
+165	IS Business Analyst	ST0117		
+166	Postgraduate Engineer			
+167	Engineering Technician	ST0457		
+168	Healthcare Science Practitioner			
+169	Chef De Partie	ST0227		
+170	Registered Nurse			
+171	Construction Steel Fixer			
+172	Fishmonger	ST0194		
+173	Building Services Engineering Craftsperson	ST0062		
+174	Junior Content Producer	ST0105		
+175	Mineral Processing Mobile and Static Plant Operator	ST0144		
+176	Accident Repair Technician	ST0352		
+177	Baker	ST0191		
+178	Building Services Design Technician	ST0063		
+179	Animal Technologist	ST0058		
+180	Arborist	ST0223		
+181	Horticulture and Landscape Operative	ST0225		
+182	Forest Operative	ST0224		
+183	Bespoke Saddler	ST0328		
+184	Food Industry Technical Professional			
+185	Building Services Engineering Ductwork Craftsperson	ST0064		
+186	Project Controls Technician	ST0163		
+187	Metrology Technician	ST0282		
+188	Rail Infrastructure Operator	ST0419		
+189	Passenger Transport Driver - bus, coach and rail			
+190	HR Consultant / Partner	ST0238		
+191	HR Support	ST0239		
+192	Building Services Engineering Ductwork Installer	ST0060		
+193	Building Services Engineering Service and Maintenance Engineer	ST0061		
+194	Building Services Engineering Ventilation Hygiene Technician	ST0391		
+195	Digital Engineering Technician	ST0266		
+196	Business Administrator	ST0070		
+197	Organ Builder	ST0382		
+198	Building Services Design Engineer			
+199	Civil Engineering Technician	ST0091		
+200	Civil Engineer			
+201	Process Automation Engineer			
+202	Engineering Construction Pipefitter	ST0162		
+203	Teacher	ST0490		
+204	Senior Leader Master's Degree			
+204a	Accountancy Taxation Professional			
+205	Senior Insurance Professional	ST0520		
+206	Passenger transport onboard and station team member			
+207	Non-Destructive Testing Engineer			
+208	Nursing Associate	ST0508		
+209	Supply Chain Practitioner			
+210	Motor Finance Specialist	ST0474		
+211	Probate Technician	ST0102		
+212	Electrical, Electronic Product Service and Installation Engineer			
+213	Financial Services Professional	ST0472		
+214	Passenger Transport Operations Manager	ST0337		
+215	Community Activator Coach	ST0478		
+216	Electrical Power Networks Engineer			
+217	Recruitment Consultant	ST0320		
+218	Recruitment Resourcer	ST0321		
+219	Lifting Technician	ST0267		
+220	High Speed Rail and Infrastructure Technician			
+221	Laboratory Scientist	ST0247		
+222	Commercial Procurement and Supply			
+223	Creative Venue Technician	ST0106		
+224	Leisure Duty Manager	ST0301		
+225	Plumbing and Domestic Heating Technician	ST0303		
+226	Marine Engineer	ST0364		
+227	Nuclear Operative	ST0291		
+230	Tunnelling Operative	ST0375		
+231	Policy Officer	ST0526_02		
+232	School Business Professional	ST0575		
+250	Technician Scientist 	ST0597		
+251	Science Manufacturing Process Operative	ST0422		
+253	Science Industry Process/Plant Engineer 			
+254	Laboratory Scientist (Degree) 	ST0626		
