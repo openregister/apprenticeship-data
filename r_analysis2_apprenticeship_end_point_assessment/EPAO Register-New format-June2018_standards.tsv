@@ -1,0 +1,597 @@
+EPA_organisation_identifier	EPA_organisation (lookup auto-populated)	Standard_code	StandardName (lookup auto-populated)	Effective_from	Effective_to	Contact_name	Contact_phonenumber	Contact_email	Date standard Approved on the Register	Comments	
+EPA0001	"BCS, The Chartered Institute for IT"	79	Cyber Intrusion Analyst	30/09/2016		Matthew Piddington	01793 417417	certifications@bcs.uk	01/06/2016		
+EPA0001	"BCS, The Chartered Institute for IT"	80	Data Analyst	30/09/2016		Matthew Piddington	01793 417417	certifications@bcs.uk	01/05/2016		
+EPA0001	"BCS, The Chartered Institute for IT"	78	Digital Marketer	30/09/2016		Matthew Piddington	01793 417417	certifications@bcs.uk	01/05/2016		
+EPA0001	"BCS, The Chartered Institute for IT"	82	Infrastructure Technician	30/09/2016		Matthew Piddington	01793 417417	certifications@bcs.uk	01/05/2016		
+EPA0001	"BCS, The Chartered Institute for IT"	1	Network Engineer	31/12/2015		Matthew Piddington	01793 417417	certifications@bcs.uk	01/06/2015		
+EPA0001	"BCS, The Chartered Institute for IT"	2	Software Developer	31/12/2015		Matthew Piddington	01793 417417	certifications@bcs.uk	01/06/2015		
+EPA0001	"BCS, The Chartered Institute for IT"	91	Software Tester	30/09/2016		Matthew Piddington	01793 417417	certifications@bcs.uk	01/05/2016		
+EPA0001	"BCS, The Chartered Institute for IT"	81	Unified Communications Trouble Shooter	01/04/2018		Matthew Piddington	01793 417417	certifications@bcs.uk	01/05/2016		
+EPA0001	"BCS, The Chartered Institute for IT"	98	Cyber Security Technologist	31/03/2017		Matthew Piddington	01793 417417	certifications@bcs.uk	01/06/2016		
+EPA0003	BINDT	132	Non-destructive Testing (NDT) Operator	01/09/2016		Roger Lyon	01604 893811	apprenticeships@bindt.org	01/10/2016		
+EPA0003	BINDT	35	Nuclear Welding Inspection Technician	01/09/2016		Roger Lyon	01604 893811	apprenticeships@bindt.org	01/01/2016		
+EPA0003	BINDT	67	Non-destructive Testing Engineering Technician	01/12/2016		Roger Lyon	01604 893811	apprenticeships@bindt.org	01/01/2016		
+EPA0005	Chartered Institute of Credit Management	77	Credit Controller/Collector	31/12/2016		Tracey Turville	01780 727272	tracey.turville@cicm.com	01/04/2016		
+EPA0005	Chartered Institute of Credit Management	148	Advanced Credit Controller / Debt Collection Specialist	01/07/2017		Tracey Turville	01780 727272	tracey.turville@cicm.com	01/11/2016		
+EPA0007	The Chartered Institute of Legal Executives (CILEx)	41	Chartered Legal Executive	30/06/2016		Liz Kemp	01234 845706	Liz.kemp@cilex.org.uk	01/10/2015		
+EPA0007	The Chartered Institute of Legal Executives (CILEx)	42	Paralegal	30/06/2016		Liz Kemp	01234 845706	Liz.kemp@cilex.org.uk	01/10/2015		
+EPA0008	City and Guilds	17	Actuarial Technician	31/03/2016		Jamie Holland	0844 543 0000	apprenticeships@cityandguilds.com 	01/04/2015		
+EPA0008	City and Guilds	61	Dental Nurse	31/03/2017		Jamie Holland	0844 543 0000	apprenticeships@cityandguilds.com 	01/04/2015		
+EPA0008	City and Guilds	21	Golf Greenkeeper	31/12/2015		Jamie Holland	0844 543 0000	apprenticeships@cityandguilds.com 	01/04/2015		
+EPA0008	City and Guilds	59	Motor Vehicle Service and Maintenance Technician (light vehicle)	30/06/2017		Jamie Holland	0844 543 0000	apprenticeships@cityandguilds.com 	01/01/2016		
+EPA0008	City and Guilds	1	Network Engineer	31/03/2016		Jamie Holland	0844 543 0000	apprenticeships@cityandguilds.com 	01/06/2015		
+EPA0008	City and Guilds	23	Property Maintenance Operative	31/12/2015		Jamie Holland	0844 543 0000	apprenticeships@cityandguilds.com 	01/04/2015		
+EPA0008	City and Guilds	36	Public Service Operational Delivery Officer	30/06/2016		Jamie Holland	0844 543 0000	apprenticeships@cityandguilds.com 	01/11/2015		
+EPA0008	City and Guilds	49	Refrigeration Air Conditioning and Heat Pump Engineering Technician	31/03/2017		Jamie Holland	0844 543 0000	apprenticeships@cityandguilds.com 	01/10/2015		
+EPA0008	City and Guilds	2	Software Developer	31/03/2016		Jamie Holland	0844 543 0000	apprenticeships@cityandguilds.com 	01/06/2015		
+EPA0008	City and Guilds	60	Insurance Practitioner	30/09/2017		Jamie Holland	0844 543 0000	apprenticeships@cityandguilds.com 	01/11/2015		
+EPA0008	City and Guilds	63	Insurance Professional	30/09/2017		Jamie Holland	0844 543 0000	apprenticeships@cityandguilds.com 	01/12/2015		
+EPA0008	City and Guilds	29	Investment Operations Administrator	30/09/2017		Jamie Holland	0844 543 0000	apprenticeships@cityandguilds.com 	01/10/2015		
+EPA0008	City and Guilds	30	Investment Operations Specialist	30/09/2017		Jamie Holland	0844 543 0000	apprenticeships@cityandguilds.com 	01/10/2015		
+EPA0008	City and Guilds	33	Investment Operations Technician	30/09/2017		Jamie Holland	0844 543 0000	apprenticeships@cityandguilds.com 	01/10/2015		
+EPA0008	City and Guilds	82	Infrastructure Technician	30/09/2017		Jamie Holland	0844 543 0000	apprenticeships@cityandguilds.com 	01/05/2016		
+EPA0008	City and Guilds	104	Operations/Departmental Manager	30/09/2017		Jamie Holland	0844 543 0000	apprenticeships@cityandguilds.com 	01/09/2016		
+EPA0008	City and Guilds	105	Team Leader/Supervisor	30/09/2017		Jamie Holland	0844 543 0000	apprenticeships@cityandguilds.com 	01/09/2016		
+EPA0008	City and Guilds	122	Customer Service Practitioner	01/01/2018		Jamie Holland	0844 543 0000	apprenticeships@cityandguilds.com 	01/09/2016		
+EPA0008	City and Guilds	119	Adult Care Worker	01/01/2018		Jamie Holland	0844 543 0000	apprenticeships@cityandguilds.com 	01/07/2016		
+EPA0008	City and Guilds	118	Lead Adult Care Worker	01/01/2018		Jamie Holland	0844 543 0000	apprenticeships@cityandguilds.com 	01/07/2016		
+EPA0008	City and Guilds	90	Rail Engineering Operative	01/01/2018		Jamie Holland	0844 543 0000	apprenticeships@cityandguilds.com 	01/05/2016		
+EPA0008	City and Guilds	157	Hair Professional	01/01/2018		Jamie Holland	0844 543 0000	apprenticeships@cityandguilds.com 	01/01/2017		
+EPA0008	City and Guilds	103	Healthcare Support Worker	01/12/2018		Jamie Holland	0844 543 0000	apprenticeships@cityandguilds.com 	01/06/2016		
+EPA0008	City and Guilds	151	Senior Healthcare Support Worker	01/01/2018		Jamie Holland	0844 543 0000	apprenticeships@cityandguilds.com 	01/11/2016		
+EPA0009	Energy & Utilities Independent Assessment Service	26	Dual Fuel Smart Meter Installer	31/03/2016		Jacqueline Hall	07921 230 272	 jacqueline.hall@euias.co.uk	01/10/2015		
+EPA0009	Energy & Utilities Independent Assessment Service	53	Utilities Engineering Technician	31/03/2016		Jacqueline Hall	07921 230 272	 jacqueline.hall@euias.co.uk	01/10/2015		
+EPA0009	Energy & Utilities Independent Assessment Service	74	Gas Engineering	30/09/2016		Jacqueline Hall	07921 230 272	 jacqueline.hall@euias.co.uk	01/03/2016		
+EPA0009	Energy & Utilities Independent Assessment Service	58	Gas Network Team Leader	31/03/2016		Jacqueline Hall	07921 230 272	 jacqueline.hall@euias.co.uk	01/11/2015		
+EPA0009	Energy & Utilities Independent Assessment Service	57	Gas Network Craftsperson	31/03/2016		Jacqueline Hall	07921 230 272	 jacqueline.hall@euias.co.uk	01/11/2015		
+EPA0009	Energy & Utilities Independent Assessment Service	6	Power Network Craftsperson	31/03/2016		Jacqueline Hall	07921 230 272	 jacqueline.hall@euias.co.uk	01/11/2015		
+EPA0009	Energy & Utilities Independent Assessment Service	27	Water Process Technician	31/03/2016		Jacqueline Hall	07921 230 272	 jacqueline.hall@euias.co.uk	01/10/2015		
+EPA0009	Energy & Utilities Independent Assessment Service	127	Electrical Power Protection and Plant Commissioning Engineer	01/06/2017		Jacqueline Hall	07921 230 272	 jacqueline.hall@euias.co.uk	01/10/2016		
+EPA0009	Energy & Utilities Independent Assessment Service	146	Maintenance and Operations Engineering Technician	01/12/2017		Jacqueline Hall	07921 230 272	 jacqueline.hall@euias.co.uk	01/11/2016		
+EPA0010	EAL	128	Associate Project Manager	01/01/2018		Mrs Carolyn Barker	01923 652400	carolyn.barker@eal.org.uk	01/10/2016		
+EPA0011	FDQ Ltd	54	Butcher	30/06/2016		Terry Fennell 	0113 3970321	Terry.Fennell@fdq.org.uk	01/10/2015		
+EPA0013	NCTJ Training	22	Junior Journalist	01/09/2016		Lyn Jones	01799 544014	lyn.jones@nctj.com	01/04/2015		
+EPA0014	NOCN	28	Financial Services Customer Adviser	30/06/2016		Graham Hasting-Evans	0114 227 0500	managing.director@nocn.org.uk	01/10/2015		
+EPA0014	NOCN	23	Property Maintenance Operative	30/09/2015		Graham Hasting-Evans	0114 227 0500	managing.director@nocn.org.uk	01/04/2015		
+EPA0014	NOCN	36	Public Service Operational Delivery Officer	31/12/2016		Graham Hasting-Evans	0114 227 0500	managing.director@nocn.org.uk	01/11/2015		
+EPA0014	NOCN	31	Senior Financial Services Customer Adviser	31/03/2017		Graham Hasting-Evans	0114 227 0500	managing.director@nocn.org.uk	01/10/2015		
+EPA0014	NOCN	118	Lead Adult Care Worker	01/06/2017		Graham Hasting-Evans	0114 227 0500	managing.director@nocn.org.uk	01/07/2016		
+EPA0014	NOCN	119	Adult Care Worker	01/06/2017		Graham Hasting-Evans	0114 227 0500	managing.director@nocn.org.uk	01/07/2016		
+EPA0014	NOCN	14	Laboratory Technician	01/06/2017		Graham Hasting-Evans	0114 227 0500	managing.director@nocn.org.uk	01/03/2016		
+EPA0014	NOCN	44	Laboratory Scientist	01/06/2017		Graham Hasting-Evans	0114 227 0500	managing.director@nocn.org.uk	01/10/2015		
+EPA0014	NOCN	15	Science Manufacturing Technician	01/06/2017		Graham Hasting-Evans	0114 227 0500	managing.director@nocn.org.uk	01/03/2016		
+EPA0014	NOCN	45	Science Industry Maintenance Technician	01/06/2017		Graham Hasting-Evans	0114 227 0500	managing.director@nocn.org.uk	01/10/2015		
+EPA0014	NOCN	101	Retailer	01/06/2017		Graham Hasting-Evans	0114 227 0500	managing.director@nocn.org.uk	01/06/2016		
+EPA0014	NOCN	77	Credit Controller/Collector	01/06/2017		Graham Hasting-Evans	0114 227 0500	managing.director@nocn.org.uk	01/04/2016		
+EPA0014	NOCN	62	Mortgage Adviser	01/06/2017		Graham Hasting-Evans	0114 227 0500	managing.director@nocn.org.uk	01/12/2015		
+EPA0014	NOCN	92	Engineering Design and Draughtsperson	01/06/2017		Graham Hasting-Evans	0114 227 0500	managing.director@nocn.org.uk	01/05/2016		
+EPA0014	NOCN	122	Customer Service Practitioner	01/03/2017		Graham Hasting-Evans	0114 227 0500	managing.director@nocn.org.uk	01/09/2016		
+EPA0014	NOCN	153	Financial Adviser	01/03/2017		Graham Hasting-Evans	0114 227 0500	managing.director@nocn.org.uk	01/12/2016		
+EPA0014	NOCN	8	Financial Services Administrator	01/03/2017		Graham Hasting-Evans	0114 227 0500	managing.director@nocn.org.uk	01/09/2016		
+EPA0014	NOCN	102	Healthcare Assistant Practitioner	01/03/2017		Graham Hasting-Evans	0114 227 0500	managing.director@nocn.org.uk	01/06/2016		
+EPA0014	NOCN	103	Healthcare Support Worker	01/03/2017		Graham Hasting-Evans	0114 227 0500	managing.director@nocn.org.uk	01/06/2016		
+EPA0014	NOCN	105	Team Leader/Supervisor	01/03/2017		Graham Hasting-Evans	0114 227 0500	managing.director@nocn.org.uk	01/09/2016		
+EPA0014	NOCN	99	Healthcare Science Assistant	01/04/2017		Graham Hasting-Evans	0114 227 0500	managing.director@nocn.org.uk	01/06/2016		
+EPA0016	Pearson Education Limited	20	Dental Practice Manager	31/12/2015		Rohini Bhattacharya	07786 078256	rohini.bhattacharya@pearson.com	01/04/2015		
+EPA0016	Pearson Education Limited	26	Dual Fuel Smart Meter Installer	30/06/2016		Rohini Bhattacharya	07786 078256	rohini.bhattacharya@pearson.com	01/10/2015		
+EPA0016	Pearson Education Limited	28	Financial Services Customer Adviser	30/09/2016		Rohini Bhattacharya	07786 078256	rohini.bhattacharya@pearson.com	01/10/2015		
+EPA0016	Pearson Education Limited	65	Housing/Property Management	31/12/2015	22/01/2018	Rohini Bhattacharya	07786 078256	rohini.bhattacharya@pearson.com	01/04/2015	Removed from registered at request from provider 	
+EPA0016	Pearson Education Limited	59	Motor Vehicle Service and Maintenance Technician (light vehicle)	31/12/2016	31/07/2017	Rohini Bhattacharya	07786 078256	rohini.bhattacharya@pearson.com	01/01/2016		
+EPA0016	Pearson Education Limited	23	Property Maintenance Operative	31/12/2015		Rohini Bhattacharya	07786 078256	rohini.bhattacharya@pearson.com	01/04/2015		
+EPA0016	Pearson Education Limited	24	Railway Engineering Design Technician	31/12/2015	22/01/2018	Rohini Bhattacharya	07786 078256	rohini.bhattacharya@pearson.com	01/04/2015	Removed from registered at request from provider 	
+EPA0016	Pearson Education Limited	31	Senior Financial Services Customer Adviser	30/09/2016		Rohini Bhattacharya	07786 078256	rohini.bhattacharya@pearson.com	01/10/2015		
+EPA0016	Pearson Education Limited	52	Systems Engineering Masters Level	01/06/2018		Rohini Bhattacharya	07711 390 910	rohini.bhattacharya@pearson.com	01/10/2015		
+EPA0016	Pearson Education Limited	53	Utilities Engineering Technician	30/06/2016	22/01/2018	Rohini Bhattacharya	07711 390 910	rohini.bhattacharya@pearson.com	01/10/2015	Removed from registered at request from provider 	
+EPA0016	Pearson Education Limited	27	Water Process Technician	30/06/2016	22/01/2018	Rohini Bhattacharya	07711 390 910	rohini.bhattacharya@pearson.com	01/10/2015	Removed from registered at request from provider 	
+EPA0016	Pearson Education Limited	122	Customer Service Practitioner	31/12/2017		Rohini Bhattacharya	07711 390 910	rohini.bhattacharya@pearson.com	01/09/2016		
+EPA0016	Pearson Education Limited	99	Healthcare Science Assistant	31/12/2017		Rohini Bhattacharya	07711 390 910	rohini.bhattacharya@pearson.com	01/06/2016		
+EPA0016	Pearson Education Limited	102	Healthcare Assistant Practitioner	31/12/2017		Rohini Bhattacharya	07711 390 910	rohini.bhattacharya@pearson.com	01/06/2016		
+EPA0016	Pearson Education Limited	103	Healthcare Support Worker	31/12/2017		Rohini Bhattacharya	07711 390 910	rohini.bhattacharya@pearson.com	01/06/2016		
+EPA0016	Pearson Education Limited	150	Healthcare Science Associate	01/06/2017		Rohini Bhattacharya	07711 390 910	rohini.bhattacharya@pearson.com	01/11/2016		
+EPA0016	Pearson Education Limited	151	Senior Healthcare Support Worker	01/06/2017		Rohini Bhattacharya	07711 390 910	rohini.bhattacharya@pearson.com	01/11/2016		
+EPA0016	Pearson Education Limited	105	Team Leader/Supervisor	01/06/2017		Rohini Bhattacharya	07711 390 910	rohini.bhattacharya@pearson.com	01/09/2016		
+EPA0016	Pearson Education Limited	93	Commis Chef	01/06/2017		Rohini Bhattacharya	07711 390 910	rohini.bhattacharya@pearson.com	01/05/2016		
+EPA0016	Pearson Education Limited	96	Hospitality Team Member	01/06/2017		Rohini Bhattacharya	07711 390 910	rohini.bhattacharya@pearson.com	01/05/2016		
+EPA0016	Pearson Education Limited	101	Retailer	01/06/2017		Rohini Bhattacharya	07711 390 910	rohini.bhattacharya@pearson.com	01/06/2016		
+EPA0016	Pearson Education Limited	119	Adult Care Worker	01/06/2017		Rohini Bhattacharya	07711 390 910	rohini.bhattacharya@pearson.com	01/07/2016		
+EPA0016	Pearson Education Limited	87	Aviation Ground Operative	01/06/2017		Rohini Bhattacharya	07711 390 910	rohini.bhattacharya@pearson.com	01/05/2016		
+EPA0016	Pearson Education Limited	86	Aviation Ground Specialist	01/06/2017		Rohini Bhattacharya	07711 390 910	rohini.bhattacharya@pearson.com	01/05/2016		
+EPA0016	Pearson Education Limited	123	Aviation Operations Manager	01/06/2017		Rohini Bhattacharya	07711 390 910	rohini.bhattacharya@pearson.com	01/10/2016		
+EPA0016	Pearson Education Limited	138	Hospitality Supervisor	01/06/2017		Rohini Bhattacharya	07711 390 910	rohini.bhattacharya@pearson.com	01/10/2016		
+EPA0016	Pearson Education Limited	118	Lead Adult Care Worker	01/06/2017		Rohini Bhattacharya	07711 390 910	rohini.bhattacharya@pearson.com	01/07/2016		
+EPA0016	Pearson Education Limited	104	Operations/Departmental Manager	01/06/2017		Rohini Bhattacharya	07711 390 910	rohini.bhattacharya@pearson.com	01/09/2016		
+EPA0016	Pearson Education Limited	147	Retail Manager	01/06/2017		Rohini Bhattacharya	07711 390 910	rohini.bhattacharya@pearson.com	01/11/2016		
+EPA0016	Pearson Education Limited	140	Retail Team Leader	01/06/2017		Rohini Bhattacharya	07711 390 910	rohini.bhattacharya@pearson.com	01/10/2016		
+EPA0016	Pearson Education Limited	139	Senior Chef Production Cooking	01/06/2017		Rohini Bhattacharya	07711 390 910	rohini.bhattacharya@pearson.com	01/10/2016		
+EPA0017	Royal Institution of Chartered Surveyors	50	Chartered Surveyor	01/09/2016		Sally Speed	0207 222 7000	sspeed@rics.org	01/10/2015		
+EPA0017	Royal Institution of Chartered Surveyors	51	Surveying Technician	01/09/2016		Sally Speed	0207 222 7000	sspeed@rics.org	01/10/2015		
+EPA0018	The Pensions Management Institute	32	Workplace Pensions (Administrator or Consultant)	01/05/2017		Neil Scott	0207 392 7402	nscott@pensions-pmi.org.uk	01/10/2015		
+EPA0019	Training 2000 Ltd	61	Dental Nurse	01/09/2016		Lynda Farrell	01254 54659	Lynda.farrell@t2000.co.uk. 	01/12/2015		
+EPA0021	University of Bradford	75	Outside Broadcasting Engineer	31/03/2017		Peter Lassey	01274 233940	p.lassey@bradford.ac.uk	01/03/2016		
+EPA0022	Innovate Awarding Limited	93	Commis Chef	01/12/2016		John McNamara	0117 3142800	epa@innovateawarding.org	01/05/2016		
+EPA0022	Innovate Awarding Limited	122	Customer Service Practitioner	01/12/2016		John McNamara	0117 3142800	epa@innovateawarding.org	01/09/2016		
+EPA0022	Innovate Awarding Limited	147	Retail Manager	01/12/2016		John McNamara	0117 3142800	epa@innovateawarding.org	01/10/2016		
+EPA0022	Innovate Awarding Limited	102	Healthcare Assistant Practitioner	01/12/2016		John McNamara	0117 3142800	epa@innovateawarding.org	01/06/2016		
+EPA0022	Innovate Awarding Limited	103	Healthcare Support Worker	01/12/2016		John McNamara	0117 3142800	epa@innovateawarding.org	01/06/2016		
+EPA0022	Innovate Awarding Limited	96	Hospitality Team Member	01/12/2016		John McNamara	0117 3142800	epa@innovateawarding.org	01/05/2016		
+EPA0022	Innovate Awarding Limited	104	Operations/Departmental Manager	01/12/2016		John McNamara	0117 3142800	epa@innovateawarding.org	01/09/2016		
+EPA0022	Innovate Awarding Limited	105	Team Leader/Supervisor	01/12/2016		John McNamara	0117 3142800	epa@innovateawarding.org	01/09/2016		
+EPA0022	Innovate Awarding Limited	140	Retail Team Leader	01/05/2017		John McNamara	0117 3142800	epa@innovateawarding.org	01/11/2016		
+EPA0022	Innovate Awarding Limited	118	Lead Adult Care Worker	01/05/2017		John McNamara	0117 3142800	epa@innovateawarding.org	01/07/2016		
+EPA0022	Innovate Awarding Limited	101	Retailer	01/12/2016		John McNamara	0117 3142800	epa@innovateawarding.org	01/06/2016		
+EPA0022	Innovate Awarding Limited	119	Adult Care Worker	01/05/2017		John McNamara	0117 3142800	epa@innovateawarding.org	01/07/2016		
+EPA0022	Innovate Awarding Limited	138	Hospitality Supervisor	01/05/2017		John McNamara	0117 3142800	epa@innovateawarding.org	01/10/2016		
+EPA0022	Innovate Awarding Limited	151	Senior Healthcare Support Worker	01/05/2017		John McNamara	0117 3142800	epa@innovateawarding.org	01/11/2016		
+EPA0022	Innovate Awarding Limited	36	Public Service Operational Delivery Officer	01/05/2017		John McNamara	0117 3142800	epa@innovateawarding.org	01/11/2015		
+EPA0022	Innovate Awarding Limited	139	Senior Chef Production Cooking	01/05/2017		John McNamara	0117 3142800	epa@innovateawarding.org	01/10/2016		
+EPA0023	The Institute of the Motor Industry	59	Motor Vehicle Service and Maintenance Technician (light vehicle)	31/12/2016		Mark Armitage	01992 511 521	IMITrailblazers@theimi.org.uk	01/01/2016		
+EPA0023	The Institute of the Motor Industry	134	Bus and Coach Engineering Technician	01/01/2018		Mark Armitage	01992 511 521	IMITrailblazers@theimi.org.uk	01/10/2016		
+EPA0023	The Institute of the Motor Industry	135	Heavy Vehicle Service and Maintenance Technician	01/01/2018		Mark Armitage	01992 511 521	IMITrailblazers@theimi.org.uk	01/10/2016		
+EPA0024	Babcock Assessments Ltd	93	Commis Chef	01/08/2017		Gary Tovey	0800 077 8738	assessments@babcockinternational.com	01/05/2016		
+EPA0024	Babcock Assessments Ltd	96	Hospitality Team Member	01/08/2017		Gary Tovey	0800 077 8738	assessments@babcockinternational.com	01/05/2016		
+EPA0024	Babcock Assessments Ltd	101	Retailer	01/08/2017		Gary Tovey	0800 077 8738	assessments@babcockinternational.com	01/06/2016		
+EPA0024	Babcock Assessments Ltd	138	Hospitality Supervisor	01/08/2017		Gary Tovey	0800 077 8738	assessments@babcockinternational.com	01/10/2016		
+EPA0024	Babcock Assessments Ltd	139	Senior Chef Production Cooking	01/08/2017		Gary Tovey	0800 077 8738	assessments@babcockinternational.com	01/10/2016		
+EPA0024	Babcock Assessments Ltd	140	Retail Team Leader	01/08/2017		Gary Tovey	0800 077 8738	assessments@babcockinternational.com	01/10/2016		
+EPA0024	Babcock Assessments Ltd	105	Team Leader/Supervisor	01/09/2018		Gary Tovey	0800 077 8738	assessments@babcockinternational.com	01/09/2016		
+EPA0024	Babcock Assessments Ltd	147	Retail Manager	01/09/2017		Gary Tovey	0800 077 8738	assessments@babcockinternational.com	01/11/2016		
+EPA0025	Chartered Institute of Procurement and Supply	73	Public Sector Commercial Professional	31/03/2017		Chantal Rogers	01780 756777	chantal.rogers@cips.org	01/03/2016		
+EPA0026	Chartered Management Institute	55	Chartered Manager Degree Apprenticeship	01/06/2017		Alison Cox	0333 220 3145	apprenticeships@managers.org.uk	01/02/2016		
+EPA0026	Chartered Management Institute	104	Operations/Departmental Manager	01/06/2017		Alison Cox	0333 220 3145	apprenticeships@managers.org.uk	01/09/2016		
+EPA0026	Chartered Management Institute	105	Team Leader/Supervisor	01/06/2017		Alison Cox	0333 220 3145	apprenticeships@managers.org.uk	01/09/2016		
+EPA0027	NET	5	Installation Electrician/Maintenance Electrician	30/09/2017		Carolyn Mason	07590 224088	carolyn.mason@eca.co.uk	01/11/2015		
+EPA0028	Science Industry Assessment Service	14	Laboratory Technician	30/09/2017		Janice Snape	01925 515211	Janice.snape@siasuk.com	01/03/2016		
+EPA0028	Science Industry Assessment Service	44	Laboratory Scientist	30/09/2017		Janice Snape	01925 515211	Janice.snape@siasuk.com	01/10/2015		
+EPA0028	Science Industry Assessment Service	15	Science Manufacturing Technician	30/09/2017		Janice Snape	01925 515211	Janice.snape@siasuk.com	01/03/2016		
+EPA0028	Science Industry Assessment Service	45	Science Industry Maintenance Technician	30/09/2017		Janice Snape	01925 515211	Janice.snape@siasuk.com	01/10/2015		
+EPA0029	Chartered Banker Institute	28	Financial Services Customer Adviser	01/01/2017		Colin Morrison	0131 473 7777	colin@charteredbanker.com	01/10/2015		
+EPA0029	Chartered Banker Institute	31	Senior Financial Services Customer Adviser	01/01/2017		Colin Morrison	0131 473 7777	colin@charteredbanker.com	01/10/2015		
+EPA0029	Chartered Banker Institute	7	Relationship Manager (Banking)	01/10/2017		Colin Morrison	0131 473 7777	colin@charteredbanker.com	01/04/2016		
+EPA0030	University of Exeter	25	Digital and Technology Solutions Professional	01/12/2016		Jess Fawell	01392 724689	degreeapprenticeships@exeter.ac.uk	01/09/2016		
+EPA0031	The Association of Accounting Technicians	117	Professional Accounting Taxation Technician	01/06/2017		Theo Ege 	020 7397 1765	Theo.Ege@aat.org.uk	01/07/2016		
+EPA0031	The Association of Accounting Technicians	133	Assistant Accountant	01/06/2017		Theo Ege 	020 7397 1765	Theo.Ege@aat.org.uk	01/10/2016		
+EPA0033	NCFE/CACHE	122	Customer Service Practitioner	30/06/2017		David Grailey	0191 239 8000	bst@ncfe.org.uk	01/09/2016		
+EPA0033	NCFE/CACHE	93	Commis Chef	01/05/2017		David Grailey	0191 239 8000	bst@ncfe.org.uk	01/05/2016		
+EPA0033	NCFE/CACHE	96	Hospitality Team Member	01/05/2017		David Grailey	0191 239 8000	bst@ncfe.org.uk	01/05/2016		
+EPA0033	NCFE/CACHE	139	Senior Chef Production Cooking	01/05/2017		David Grailey	0191 239 8000	bst@ncfe.org.uk	01/10/2016		
+EPA0033	NCFE/CACHE	138	Hospitality Supervisor	01/05/2017		David Grailey	0191 239 8000	bst@ncfe.org.uk	01/10/2016		
+EPA0033	NCFE/CACHE	104	Operations/Departmental Manager	01/05/2017		David Grailey	0191 239 8000	bst@ncfe.org.uk	01/09/2016		
+EPA0033	NCFE/CACHE	105	Team Leader/Supervisor	01/05/2017		David Grailey	0191 239 8000	bst@ncfe.org.uk	01/09/2016		
+EPA0033	NCFE/CACHE	128	Associate Project Manager	01/05/2017		David Grailey	0191 239 8000	bst@ncfe.org.uk	01/10/2016		
+EPA0033	NCFE/CACHE	119	Adult Care Worker	01/06/2017		David Grailey	0191 239 8000	bst@ncfe.org.uk	01/07/2016		
+EPA0033	NCFE/CACHE	61	Dental Nurse	01/06/2017		David Grailey	0191 240 8950	epa@ncfe.org.uk	01/12/2015		
+EPA0033	NCFE/CACHE	20	Dental Practice Manager	01/06/2017		David Grailey	0191 240 8950	epa@ncfe.org.uk	01/04/2015		
+EPA0033	NCFE/CACHE	102	Healthcare Assistant Practitioner	01/06/2017		David Grailey	0191 240 8950	epa@ncfe.org.uk	01/06/2016		
+EPA0033	NCFE/CACHE	103	Healthcare Support Worker	01/06/2017		David Grailey	0191 240 8950	epa@ncfe.org.uk	01/06/2016		
+EPA0033	NCFE/CACHE	118	Lead Adult Care Worker	01/06/2017		David Grailey	0191 240 8950	epa@ncfe.org.uk	01/07/2016		
+EPA0033	NCFE/CACHE	159	Event Assistant	01/10/2017	22/02/2018	David Grailey	0191 240 8950	epa@ncfe.org.uk	01/02/2017	Removed from register as per provider's request - agreed in December 2018 Governance meeting	
+EPA0033	NCFE/CACHE	151	Senior Healthcare Support Worker	01/10/2017		David Grailey	0191 240 8950	epa@ncfe.org.uk	01/11/2016		
+EPA0034	VQ Solutions Ltd	78	Digital Marketer	01/01/2017		Andrew Gilmour	01423 74006	andrew.gilmour@vqsolutions.co.uk	01/05/2016		
+EPA0035	The Maritime and Coastguard Agency	34	Able Seafarer (Deck)	01/01/2017		Harry Deans	02380 329239	harry.deans@mcga.gov.uk	01/01/2016		
+EPA0036	BESA Training	49	Refrigeration Air Conditioning and Heat Pump Engineering Technician	31/03/2017		Tony Howard	0800 917 8419 /07583189008	tony.howard@theBESA.com	01/04/2016		
+EPA0037	ProQual AB	80	Data Analyst	28/02/2017		Gary Bartle	01430 423822	garybartle@proqualab.com	01/05/2016		
+EPA0037	ProQual AB	79	Cyber Intrusion Analyst	28/02/2017		Gary Bartle	01430 423822	garybartle@proqualab.com	01/06/2016		
+EPA0037	ProQual AB	68	Junior Energy Manager	28/02/2017		Gary Bartle	01430 423822	garybartle@proqualab.com	01/01/2016		
+EPA0037	ProQual AB	104	Operations/Departmental Manager	28/02/2017		Gary Bartle	01430 423822	garybartle@proqualab.com	01/09/2016		
+EPA0038	Association of Chartered Certified Accountants 	117	Professional Accounting Taxation Technician	01/12/2017		Anjie Daden	020 70595812	apprenticeships@accaglobal.com	01/07/2016		
+EPA0039	BIIAB	93	Commis Chef	01/05/2017		Customer Support	01276 684449 	customersupport@bii.org	01/05/2016		
+EPA0039	BIIAB	96	Hospitality Team Member	01/05/2017		Customer Support	01276 684449 	customersupport@bii.org	01/05/2016		
+EPA0039	BIIAB	101	Retailer	01/05/2017		Customer Support	01276 684449 	customersupport@bii.org	01/06/2016		
+EPA0039	BIIAB	140	Retail Team Leader	01/05/2017		Customer Support	01276 684449 	customersupport@bii.org	01/10/2016		
+EPA0039	BIIAB	122	Customer Service Practitioner	01/10/2017		Customer Support	01276 684449 	customersupport@bii.org	01/09/2016		
+EPA0039	BIIAB	138	Hospitality Supervisor	01/10/2017		Customer Support	01276 684449 	customersupport@bii.org	01/10/2016		
+EPA0039	BIIAB	105	Team Leader/Supervisor	01/10/2017		Customer Support	01276 684449 	customersupport@bii.org	01/09/2016		
+EPA0041	DSW Consulting	8	Financial Services Administrator	01/01/2017		Tim Hattersley	01302 760 008	info@dswapprenticeships.co.uk 	01/09/2016		
+EPA0041	DSW Consulting	62	Mortgage Adviser	01/04/2017		Tim Hattersley	01302 760 008	info@dswapprenticeships.co.uk 	01/12/2015		
+EPA0042	Highfield Awarding Body for Compliance (HABC)	101	Retailer	01/03/2017		Ben Cressey	0845 226 0350 	bcressey@highfieldabc.com	01/06/2016		
+EPA0042	Highfield Awarding Body for Compliance (HABC)	119	Adult Care Worker	01/04/2017		Ben Cressey	0845 226 0350 	bcressey@highfieldabc.com	01/07/2016		
+EPA0042	Highfield Awarding Body for Compliance (HABC)	93	Commis Chef	01/04/2017		Ben Cressey	0845 226 0350 	bcressey@highfieldabc.com	01/05/2016		
+EPA0042	Highfield Awarding Body for Compliance (HABC)	138	Hospitality Supervisor	01/04/2017		Ben Cressey	0845 226 0350 	bcressey@highfieldabc.com	01/10/2016		
+EPA0042	Highfield Awarding Body for Compliance (HABC)	96	Hospitality Team Member	01/04/2017		Ben Cressey	0845 226 0350 	bcressey@highfieldabc.com	01/05/2016		
+EPA0042	Highfield Awarding Body for Compliance (HABC)	118	Lead Adult Care Worker	01/04/2017		Ben Cressey	0845 226 0350 	bcressey@highfieldabc.com	01/07/2016		
+EPA0042	Highfield Awarding Body for Compliance (HABC)	122	Customer Service Practitioner	01/07/2017		Ben Cressey	0845 226 0350 	bcressey@highfieldabc.com	01/09/2016		
+EPA0042	Highfield Awarding Body for Compliance (HABC)	104	Operations/Departmental Manager	01/07/2017		Ben Cressey	0845 226 0350 	bcressey@highfieldabc.com	01/09/2016		
+EPA0042	Highfield Awarding Body for Compliance (HABC)	105	Team Leader/Supervisor	01/07/2017		Ben Cressey	0845 226 0350 	bcressey@highfieldabc.com	01/09/2016		
+EPA0042	Highfield Awarding Body for Compliance (HABC)	110	Large Goods Vehicle (LGV) Driver	01/06/2017		Ben Cressey	0845 226 0350 	bcressey@highfieldabc.com	01/07/2016		
+EPA0042	Highfield Awarding Body for Compliance (HABC)	109	Supply Chain Operator	01/06/2017		Ben Cressey	0845 226 0350 	bcressey@highfieldabc.com	01/06/2016		
+EPA0042	Highfield Awarding Body for Compliance (HABC)	111	Supply Chain Warehouse Operative	01/06/2017		Ben Cressey	0845 226 0350 	bcressey@highfieldabc.com	01/07/2016		
+EPA0042	Highfield Awarding Body for Compliance (HABC)	140	Retail Team Leader	01/07/2017		Ben Cressey	0845 226 0350 	bcressey@highfieldabc.com	01/10/2016		
+EPA0042	Highfield Awarding Body for Compliance (HABC)	147	Retail Manager	01/07/2017		Ben Cressey	0845 226 0350 	bcressey@highfieldabc.com	01/11/2016		
+EPA0044	The Colleges' Partnership Ltd	1	Network Engineer	01/05/2017		Martin Johnson	01258 457091	martin.johnson@tcpartnership.ac.uk	01/06/2015		
+EPA0045	Occupational Awards Limited	129	Food and Drink Advanced Process Operator	01/05/2017		Sally Worsley-Speck	01235 432 032	Info@oawards.co.uk	01/10/2016		
+EPA0045	Occupational Awards Limited	130	Food and Drink Process Operator	01/05/2017		Sally Worsley-Speck	01235 432 032	Info@oawards.co.uk	01/10/2016		
+EPA0045	Occupational Awards Limited	137	Furniture Manufacturer	01/05/2017		Sally Worsley-Speck	01235 432 032	Info@oawards.co.uk	01/10/2016		
+EPA0046	Management Focus	55	Chartered Manager Degree Apprenticeship	01/12/2016		Alia Taub	020 7723 2293	enquiries@managementfocus.co.uk	01/02/2016		
+EPA0047	QFI	92	Engineering Design and Draughtsperson	01/09/2017		Richard McClelland	07710 427643	richard.mcclelland@qfi.org.uk	01/05/2016		
+EPA0048	South West Councils	105	Team Leader/Supervisor	01/12/2017		Fay Edwards	01823 270101	fay.edwards@swcouncils.gov.uk	01/09/2016		
+EPA0048	South West Councils	104	Operations/Departmental Manager	01/12/2017		Fay Edwards	01823 270101	fay.edwards@swcouncils.gov.uk	01/09/2016		
+EPA0049	TWI Certification Ltd	94	Welding	01/03/2017		Chris Eady	01223 899614	chris.eady@twi.co.uk	01/06/2016		
+EPA0049	TWI Certification Ltd	95	Welding	01/03/2017		Chris Eady	01223 899614	chris.eady@twi.co.uk	01/06/2016		
+EPA0049	TWI Certification Ltd	35	Nuclear Welding Inspection Technician	01/03/2017		Chris Eady	01223 899614	chris.eady@twi.co.uk	01/01/2016		
+EPA0050	ICAEW	117	Professional Accounting Taxation Technician	01/12/2017		Clemence Mayali	01908 248250	Business.Development@icaew.com 	01/07/2016		
+EPA0051	NSAN	46	Nuclear Health Physics Monitor	01/03/2017		Zoe Whittington	01925 909700	NuclearEPAO@nsan.co.uk     	01/10/2015		
+EPA0052	Scottish Qualifications Authority (SQA)	39	Conveyancing Technician	01/01/2018		Alan Sleigh	0345 213 5188	alan.sleigh@sqa.org.uk	01/10/2015		
+EPA0052	Scottish Qualifications Authority (SQA)	40	Licensed Conveyancer	01/01/2018		Alan Sleigh	0345 213 5188	alan.sleigh@sqa.org.uk	01/10/2015		
+EPA0053	Active IQ	122	Customer Service Practitioner	01/04/2017		Sarah Edmonds	01480 467950 	Sarah@activeiq.co.uk	01/09/2016		
+EPA0053	Active IQ	105	Team Leader/Supervisor	02/04/2017		Sarah Edmonds	01480 467950 	Sarah@activeiq.co.uk	01/09/2016		
+EPA0054	Skillsfirst Assess	119	Adult Care Worker	01/02/2018		Mark Child	0121 270 5100	markchild@skillsfirst.co.uk	01/07/2016	Delivery date amended - Skills First Assess advisedt they are currently finalising all of their EPA systems and processes with a view to a go live date of the 1st February 2018 for the standards for which they are currently approved for - email saved on team site Register Management - Detials of Employers EPA folder	
+EPA0054	Skillsfirst Assess	122	Customer Service Practitioner	01/02/2018		Mark Child	0121 270 5100	markchild@skillsfirst.co.uk	01/09/2016	Delivery date amended -14/11/2017 - see email saved on team site Register Management - Detials of Employers EPA folder	
+EPA0054	Skillsfirst Assess	118	Lead Adult Care Worker	01/02/2018		Mark Child	0121 270 5100	markchild@skillsfirst.co.uk	01/07/2016	Delivery date amended -14/11/2017 - see email saved on team site Register Management - Detials of Employers EPA folder	
+EPA0054	Skillsfirst Assess	105	Team Leader/Supervisor	01/02/2018		Mark Child	0121 270 5100	markchild@skillsfirst.co.uk	01/09/2016	Delivery date amended -14/11/2017 - see email saved on team site Register Management - Detials of Employers EPA folder	
+EPA0055	The Institution of Engineering and Technology	114	Aircraft Maintenance Certifying Engineer	01/10/2017		John Beattie	01438 765526	jbeattie@theiet.org	01/07/2016	Emails rec'd on 11/10/2017 advising the institute can fully offer EPA hence effective date changed to 1/10/2017.	
+EPA0055	The Institution of Engineering and Technology	107	Embedded Electronic Systems Design and Development Engineer	01/10/2017		John Beattie	01438 765526	jbeattie@theiet.org	01/07/2016	Emails rec'd on 11/10/2017 advising the institute can fully offer EPA hence effective date changed to 1/10/2017.	
+EPA0055	The Institution of Engineering and Technology	88	Rail Engineering Advanced Technician	01/10/2017		John Beattie	01438 765526	jbeattie@theiet.org	01/05/2016	Emails rec'd on 11/10/2017 advising the institute can fully offer EPA hence effective date changed to 1/10/2017.	
+EPA0055	The Institution of Engineering and Technology	89	Rail Engineering Technician	01/10/2017		John Beattie	01438 765526	jbeattie@theiet.org	01/05/2016	Emails rec'd on 11/10/2017 advising the institute can fully offer EPA hence effective date changed to 1/10/2017.	
+EPA0055	The Institution of Engineering and Technology	24	Railway Engineering Design Technician	01/10/2017		John Beattie	01438 765526	jbeattie@theiet.org	01/04/2015	Emails rec'd on 11/10/2017 advising the institute can fully offer EPA hence effective date changed to 1/10/2017.	
+EPA0055	The Institution of Engineering and Technology	167	Engineering Technician	01/10/2017		John Beattie	01438 765526	jbeattie@theiet.org	01/04/2017	Emails rec'd on 11/10/2017 advising the institute can fully offer EPA hence effective date changed to 1/10/2017.	
+EPA0056	cHRysos HR Solutions Ltd	104	Operations/Departmental Manager	01/10/2017		Sarah Annable	01302 802128	info@chrysos.org.uk	01/09/2016		
+EPA0056	cHRysos HR Solutions Ltd	105	Team Leader/Supervisor	01/10/2017		Sarah Annable	01302 802128	info@chrysos.org.uk	01/09/2016		
+EPA0057	Future (Awards and Qualifications) Ltd	156	Associate Ambulance Practitioner	01/10/2017		Christopher Young	01530 836662	info@futureassess.com	01/02/2017		
+EPA0058	iCQ	122	Customer Service Practitioner	01/10/2017		Paul Paice	07984 201555	paul.paice@icanqualify.co.uk	01/09/2016		
+EPA0058	iCQ	96	Hospitality Team Member	01/10/2017		Paul Paice	07984 201555	paul.paice@icanqualify.co.uk	01/05/2016		
+EPA0058	iCQ	105	Team Leader/Supervisor	01/10/2017		Paul Paice	07984 201555	paul.paice@icanqualify.co.uk	01/09/2016		
+EPA0059	IRSE Enterprises Ltd	24	Railway Engineering Design Technician	01/05/2017		Judith Ward	0207 808 1186	Judith.ward@irse.org	01/04/2015		
+EPA0059	IRSE Enterprises Ltd	89	Rail Engineering Technician	01/05/2017		Judith Ward	0207 808 1186	Judith.ward@irse.org	01/05/2016		
+EPA0060	Institution of Mechanical Engineers	114	Aircraft Maintenance Certifying Engineer	01/07/2017		Nicole Rinaldi	020 7304 6970	epa@imeche.org	01/07/2016		
+EPA0060	Institution of Mechanical Engineers	88	Rail Engineering Advanced Technician	01/07/2017		Nicole Rinaldi	020 7304 6970	epa@imeche.org	01/05/2016		
+EPA0060	Institution of Mechanical Engineers	89	Rail Engineering Technician	01/07/2017		Nicole Rinaldi	020 7304 6970	epa@imeche.org	01/05/2016		
+EPA0060	Institution of Mechanical Engineers	24	Railway Engineering Design Technician	01/07/2017		Nicole Rinaldi	020 7304 6970	epa@imeche.org	01/04/2015		
+EPA0060	Institution of Mechanical Engineers	167	Engineering Technician	01/07/2017		Nicole Rinaldi	020 7304 6970	epa@imeche.org	01/04/2017		
+EPA0061	Training Qualifications UK	118	Lead Adult Care Worker	01/07/2017		Kelle McQuade	03333 583 344	epa@tquk.org	01/07/2016		
+EPA0061	Training Qualifications UK	119	Adult Care Worker	01/07/2017		Kelle McQuade	03333 583 344	epa@tquk.org	01/07/2016		
+EPA0061	Training Qualifications UK	96	Hospitality Team Member	01/07/2017		Kelle McQuade	03333 583 344	epa@tquk.org	01/05/2016		
+EPA0061	Training Qualifications UK	93	Commis Chef	01/07/2017		Kelle McQuade	03333 583 344	epa@tquk.org	01/05/2016		
+EPA0061	Training Qualifications UK	138	Hospitality Supervisor	01/07/2017		Kelle McQuade	03333 583 344	epa@tquk.org	01/10/2016		
+EPA0062	The Army Catering Trust	93	Commis Chef	03/01/2018		Sean Farrell	01962 887247	DLS-FSW-QACCPDCentre@mod.uk	01/05/2016		
+EPA0062	The Army Catering Trust	138	Hospitality Supervisor	03/01/2018		Sean Farrell	01962 887247	DLS-FSW-QACCPDCentre@mod.uk	01/10/2016		
+EPA0063	Liverpool John Moores University	25	Digital and Technology Solutions Professional	01/02/2018		Carol Winder	0121 204 3555	eas_apec@aston.ac.uk	01/09/2016		
+EPA0064	AIM Awards	85	Assistant Technical Director (visual effects)	01/08/2017		Gareth Metcalf	01332 224 657	gareth.metcalf@aimawards.org.uk	01/09/2016		
+EPA0064	AIM Awards	84	Junior 2D Artist (visual effects)	01/08/2017		Gareth Metcalf	01332 224 657	gareth.metcalf@aimawards.org.uk	01/05/2016		
+EPA0065	Aston University	25	Digital and Technology Solutions Professional	01/08/2017		Carol Winder	0121 204 3555	eas_apec@aston.ac.uk	01/09/2016		
+EPA0066	Institute of Certified Bookkeepers	133	Assistant Accountant	01/06/2017		Jacquie Mount	0 207 856 2567	Jacquie.mount@bookkeepers.org.uk	01/10/2016		
+EPA0068	APMG-International	128	Associate Project Manager	01/12/2017		Nicola Kelly	01494 452450	nicola.kelly@apmgroup.co.uk	01/10/2016		
+EPA0069	VTCT	157	Hair Professional	01/08/2017		Ashley Barnes	023 8068 4500	customersupport@vtct.org.uk	01/01/2017		
+EPA0070	Association of Taxation Technicians	117	Professional Accounting Taxation Technician	01/02/2018		Rosalind Baxter	0844 251 0830	info@att.org.uk	01/07/2016		
+EPA0071	Manpower Services Ltd 	101	Retailer	01/12/2017		Jeremy Hay Campbell	07932 748 201	Jeremy.HayCampbell@manpower.co.uk 	01/06/2016		
+EPA0072	GP Strategies Assessment Services	119	Adult Care Worker	01/08/2017		Eileen Moran	0161 429 2460	EMoran@gpstrategies.com	01/07/2016		
+EPA0072	GP Strategies Assessment Services	118	Lead Adult Care Worker	01/08/2017		Eileen Moran	0161 429 2460	EMoran@gpstrategies.com	01/07/2016		
+EPA0072	GP Strategies Assessment Services	104	Operations/Departmental Manager	01/08/2017		Eileen Moran	0161 429 2460	EMoran@gpstrategies.com	01/09/2016		
+EPA0072	GP Strategies Assessment Services	105	Team Leader/Supervisor	01/08/2017		Eileen Moran	0161 429 2460	EMoran@gpstrategies.com	01/09/2016		
+EPA0073	Lantra Awards Limited	125	Highway Electrical Maintenance and Installation Operative	01/02/2018		Kristopher Swainston	02476 858418	Kris.swainston@lantra.co.uk 	01/10/2016		
+EPA0074	DiVA Apprenticeships Ltd	112	Broadcast Production Assistant	01/12/2017		Arit Eminue	0843 289 9204 	 hello@divaapprenticeships.com 	01/07/2016		
+EPA0075	Anglia Ruskin University	25	Digital and Technology Solutions Professional	01/12/2017		Andrew Walker	01223 695994	ldsfees@anglia.ac.uk	01/09/2016		
+EPA0039	BIIAB	147	Retail Manager	01/12/2017		Customer Support	01276 684449 	customersupport@bii.org	01/11/2016		
+EPA0014	NOCN	146	Maintenance and Operations Engineering Technician	01/02/2018		Graham Hasting-Evans	0114 227 0500	managing.director@nocn.org.uk	01/11/2016		
+EPA0024	Babcock Assessments Ltd	119	Adult Care Worker	01/09/2018		Gary Tovey	0800 077 8738	assessments@babcockinternational.com	01/07/2016		
+EPA0024	Babcock Assessments Ltd	118	Lead Adult Care Worker	01/09/2018		Gary Tovey	0800 077 8738	assessments@babcockinternational.com	01/07/2016		
+EPA0041	DSW Consulting	60	Insurance Practitioner	01/04/2017		Tim Hattersley	01302 760 008	info@dswapprenticeships.co.uk 	01/11/2015		
+EPA0041	DSW Consulting	63	Insurance Professional	01/04/2017		Tim Hattersley	01302 760 008	info@dswapprenticeships.co.uk 	01/12/2015		
+EPA0076	Leeds Beckett University	25	Digital and Technology Solutions Professional	01/02/2018		Ian Maude	0113812 6184	apprenticeships@leedsbeckett.ac.uk	01/09/2016		
+EPA0076	Leeds Beckett University	55	Chartered Manager Degree Apprenticeship	01/02/2018		Ian Maude	0113812 6184	apprenticeships@leedsbeckett.ac.uk	01/02/2016		
+EPA0033	NCFE/CACHE	140	Retail Team Leader	01/02/2018		David Grailey	0191 240 8950	epa@ncfe.org.uk	01/10/2016		
+EPA0033	NCFE/CACHE	101	Retailer	01/02/2018		David Grailey	0191 240 8950	epa@ncfe.org.uk	01/06/2016		
+EPA0014	NOCN	140	Retail Team Leader	01/02/2018		Graham Hasting-Evans	0114 227 0500	managing.director@nocn.org.uk	01/10/2016		
+EPA0078	University of Sunderland 	25	Digital and Technology Solutions Professional	01/02/2018		Amanda West	0191 515 2649	amanda.west@sunderland.ac.uk	01/09/2016		
+EPA0008	City and Guilds	78	Digital Marketer	01/10/2017		Jamie Holland	0844 543 0000	apprenticeships@cityandguilds.com 	01/05/2016		
+EPA0001	"BCS, The Chartered Institute for IT"	142	IT Technical Salesperson	01/10/2017		Matthew Piddington	01793 417417	certifications@bcs.uk	01/10/2016		
+EPA0001	"BCS, The Chartered Institute for IT"	154	Software Development Technician	01/10/2017		Matthew Piddington	01793 417417	certifications@bcs.uk	01/01/2017		
+EPA0001	"BCS, The Chartered Institute for IT"	155	Unified Communications Technician	01/10/2017		Matthew Piddington	01793 417417	certifications@bcs.uk	01/01/2017		
+EPA0001	"BCS, The Chartered Institute for IT"	165	IS Business Analyst	01/10/2017		Matthew Piddington	01793 417417	certifications@bcs.uk	01/05/2017		
+EPA0081	University of the West of England	25	Digital and Technology Solutions Professional	01/05/2017		UWE Bristol	0117 3281043	degreeapprenticeships@uwe.ac.uk 	01/09/2016		
+EPA0041	DSW Consulting	83	Junior Management Consultant	01/03/2017		Tim Hattersley	01302 760 008	info@dswapprenticeships.co.uk 	01/04/2016		
+EPA0041	DSW Consulting	29	Investment Operations Administrator	01/05/2017		Tim Hattersley	01302 760 008	info@dswapprenticeships.co.uk 	01/10/2015		
+EPA0041	DSW Consulting	32	Workplace Pensions (Administrator or Consultant)	01/05/2017		Tim Hattersley	01302 760 008	info@dswapprenticeships.co.uk 	01/10/2015		
+EPA0006	Chartered Institute of Housing	64	Housing/Property Management Assistant	01/01/2018		Vanessa Howell	02476 851739	Vanessa.howell@cih.org	01/12/2015		
+EPA0006	Chartered Institute of Housing	65	Housing/Property Management	01/04/2018		Vanessa Howell	02476 851739	Vanessa.howell@cih.org	01/04/2015	amended readiness to deliver date on 24/01/2018 - see email apprentice inbox for further details.	
+EPA0006	Chartered Institute of Housing	66	Senior Housing/Property Management	01/01/2018		Vanessa Howell	02476 851739	Vanessa.howell@cih.org	01/12/2015		
+EPA0079	Instructus	140	Retail Team Leader	01/02/2018		Johan Thomsen	01536 738 631	johan.thomsen@Instructus.org	01/10/2016		
+EPA0080	Institution of Civil Engineers	24	Railway Engineering Design Technician	01/07/2017		Sheila Billett	0207 665 2012	epa@ice.org.uk	01/04/2015		
+EPA0082	SFJ Awards	36	Public Service Operational Delivery Officer	01/11/2017		Steve Batty	0114 284 1970	 s.batty@sfjawards.com	01/11/2015		
+EPA0083	The Real Apprenticeship Company	110	Large Goods Vehicle (LGV) Driver	01/04/2018		Debbie Shandley 	01926 298020 	dshandley@thereal.company	01/07/2016		
+EPA0084	Royal Aeronautical Society	167	Engineering Technician	01/02/2018		Lynn Beattie	0207 670 4300	lynn.beattie@aerosociety.com	01/04/2017		
+EPA0041	DSW Consulting	31	Senior Financial Services Customer Adviser	01/03/2017		Tim Hattersley	01302 760 008	info@dswapprenticeships.co.uk 	01/10/2015		
+EPA0041	DSW Consulting	153	Financial Adviser	01/03/2017		Tim Hattersley	01302 760 008	info@dswapprenticeships.co.uk 	01/12/2016		
+EPA0041	DSW Consulting	105	Team Leader/Supervisor	01/03/2017		Tim Hattersley	01302 760 008	info@dswapprenticeships.co.uk 	01/10/2016		
+EPA0041	DSW Consulting	48	Paraplanner	01/03/2017		Tim Hattersley	01302 760 008	info@dswapprenticeships.co.uk 	01/10/2015		
+EPA0041	DSW Consulting	28	Financial Services Customer Adviser	01/03/2017		Tim Hattersley	01302 760 008	info@dswapprenticeships.co.uk 	01/10/2015		
+EPA0014	NOCN	147	Retail Manager	01/02/2018		Graham Hasting-Evans	0114 227 0500	managing.director@nocn.org.uk	01/11/2016		
+EPA0014	NOCN	7	Relationship Manager (Banking)	01/02/2018		Graham Hasting-Evans	0114 227 0500	managing.director@nocn.org.uk	01/04/2016		
+EPA0014	NOCN	148	Advanced Credit Controller / Debt Collection Specialist	01/02/2018		Graham Hasting-Evans	0114 227 0500	managing.director@nocn.org.uk	01/11/2016		
+EPA0014	NOCN	150	Healthcare Science Associate	01/02/2018		Graham Hasting-Evans	0114 227 0500	managing.director@nocn.org.uk	01/11/2016		
+EPA0051	NSAN	163	Nuclear Technician	01/02/2018		Zoe Whittington	01925 909700	NuclearEPAO@nsan.co.uk     	01/04/2017		
+EPA0085	Royal Naval Apprenticeships	108	HM Forces Serviceperson (Public Services)	01/04/2018		Thomas Mark 	02392 625947 	Mark.thomas569@mod.uk	1//7/2016		
+EPA0077	Smart Awards 	26	Dual Fuel Smart Meter Installer	01/10/2017		Lesley Barr	02476 992437	Lesley@smartawards.co.uk  	01/10/2015		
+EPA0077	Smart Awards 	155	Unified Communications Technician	01/10/2017		Lesley Barr	02476 992437	Lesley@smartawards.co.uk  	01/01/2017		
+EPA0011	FDQ Ltd	152	Advanced Butcher	01/02/2018		Terry Fennell 	0113 3970321	Terry.Fennell@fdq.org.uk	01/12/2016		
+EPA0039	BIIAB	104	Operations/Departmental Manager	01/03/2018		Customer Support	01276 684449 	customersupport@bii.org	01/09/2016		
+EPA0045	Occupational Awards Limited	131	Food Technologist	01/02/2018		Sally Worsley-Speck	01235 432 032	Info@oawards.co.uk	01/05/2017		
+EPA0045	Occupational Awards Limited	16	Food and Drink Maintenance Engineer	01/02/2018		Sally Worsley-Speck	01235 432 032	Info@oawards.co.uk	01/10/2016		
+EPA0045	Occupational Awards Limited	104	Operations/Departmental Manager	01/02/2018		Sally Worsley-Speck	01235 432 032	Info@oawards.co.uk	01/09/2016		
+EPA0045	Occupational Awards Limited	105	Team Leader/Supervisor	01/02/2018		Sally Worsley-Speck	01235 432 032	Info@oawards.co.uk	01/09/2016		
+EPA0073	Lantra Awards Limited	124	Highway Electrician / Service Operative	01/10/2017		Kristopher Swainston	02476 858418	Kris.swainston@lantra.co.uk 	01/10/2016		
+EPA0058	iCQ	101	Retailer	01/10/2017		Paul Paice	07984 201555	paul.paice@icanqualify.co.uk	01/06/2016		
+EPA0058	iCQ	147	Retail Manager	01/10/2017		Paul Paice	07984 201555	paul.paice@icanqualify.co.uk	01/11/2016		
+EPA0058	iCQ	140	Retail Team Leader	01/10/2017		Paul Paice	07984 201555	paul.paice@icanqualify.co.uk	01/10/2016		
+EPA0071	Manpower Services Ltd 	140	Retail Team Leader	01/02/2017		Jeremy Hay Campbell	07932 748 201	Jeremy.HayCampbell@manpower.co.uk 	01/10/2016		
+EPA0071	Manpower Services Ltd 	147	Retail Manager	01/02/2017		Jeremy Hay Campbell	07932 748 201	Jeremy.HayCampbell@manpower.co.uk 	01/11/2016		
+EPA0086	Babcock Engineering Assessments	89	Rail Engineering Technician	01/06/2018		David Glazier	02392 542371	david.glazier@babcockinternational.com	01/05/2016		
+EPA0014	NOCN	93	Commis Chef	01/09/2017		Graham Hasting-Evans	0114 227 0500	managing.director@nocn.org.uk	01/05/2016		
+EPA0014	NOCN	143	Compliance / Risk Officer	01/09/2017		Graham Hasting-Evans	0114 227 0500	managing.director@nocn.org.uk	01/10/2016		
+EPA0014	NOCN	144	Senior Compliance / Risk Specialist	01/09/2017		Graham Hasting-Evans	0114 227 0500	managing.director@nocn.org.uk	01/10/2016		
+EPA0014	NOCN	138	Hospitality Supervisor	01/09/2017		Graham Hasting-Evans	0114 227 0500	managing.director@nocn.org.uk	01/10/2016		
+EPA0014	NOCN	96	Hospitality Team Member	01/09/2017		Graham Hasting-Evans	0114 227 0500	managing.director@nocn.org.uk	01/05/2016		
+EPA0014	NOCN	29	Investment Operations Administrator	01/09/2017		Graham Hasting-Evans	0114 227 0500	managing.director@nocn.org.uk	01/10/2015		
+EPA0014	NOCN	33	Investment Operations Technician	01/09/2017		Graham Hasting-Evans	0114 227 0500	managing.director@nocn.org.uk	01/10/2015		
+EPA0014	NOCN	104	Operations/Departmental Manager	01/09/2017		Graham Hasting-Evans	0114 227 0500	managing.director@nocn.org.uk	01/09/2016		
+EPA0014	NOCN	151	Senior Healthcare Support Worker	01/09/2017		Graham Hasting-Evans	0114 227 0500	managing.director@nocn.org.uk	01/09/2016		
+EPA0014	NOCN	139	Senior Chef Production Cooking	01/09/2017		Graham Hasting-Evans	0114 227 0500	managing.director@nocn.org.uk	01/10/2016		
+EPA0008	City and Guilds	93	Commis Chef	01/09/2017		Jamie Holland	0844 543 0000	apprenticeships@cityandguilds.com 	01/05/2016		
+EPA0008	City and Guilds	96	Hospitality Team Member	01/09/2017		Jamie Holland	0844 543 0000	apprenticeships@cityandguilds.com 	01/05/2016		
+EPA0039	BIIAB	139	Senior Chef Production Cooking	01/03/2018		Customer Support	01276 684449 	customersupport@bii.org	01/10/2016		
+EPA0039	BIIAB	169	Chef De Partie	01/03/2018		Customer Support	01276 684449 	customersupport@bii.org	01/05/2016		
+EPA0087	Further Training Ltd	104	Operations/Departmental Manager	01/09/2017		Kate Gough	0845 600 6690	enquiries@furthertraining.co.uk	01/09/2016		
+EPA0088	University of Cumbria	47	Nuclear Scientist and Nuclear Engineer	01/03/2018		Peter Train	01524 590800 Ext: 2534	apprenticeships@cumbria.ac.uk	01/09/2016		
+EPA0089	Ginger Nut Training	78	Digital Marketer	01/09/2017		Laura Brookes	01206 714 580	Laura.brookes@gingernuttraining.co.uk	01/05/2016		
+EPA0090	BPEC Certification Ltd	26	Dual Fuel Smart Meter Installer	01/12/2017		Matt Skelding	01332 376005	mskelding@bpec.org.uk	01/09/2016		
+EPA0072	GP Strategies Assessment Services	140	Retail Team Leader	01/12/2017		Eileen Moran	0161 429 2460	EMoran@gpstrategies.com	01/10/2016		
+EPA0072	GP Strategies Assessment Services	147	Retail Manager	01/12/2017		Eileen Moran	0161 429 2460	EMoran@gpstrategies.com	01/11/2016		
+EPA0072	GP Strategies Assessment Services	101	Retailer	01/12/2017		Eileen Moran	0161 429 2460	EMoran@gpstrategies.com	01/06/2016		
+EPA0072	GP Strategies Assessment Services	111	Supply Chain Warehouse Operative	01/12/2017		Eileen Moran	0162 429 2460	EMoran@gpstrategies.com	01/07/2016		
+EPA0057	Future (Awards and Qualifications) Ltd	151	Senior Healthcare Support Worker	01/03/2018		Christopher Young	01530 836662	 info@futureassess.com	01/11/2016		
+EPA0091	ABC Awards	72	Bespoke Tailor and Cutter	01/03/2018		Customer Services	0115 8541 620	EPA@abcawards.co.uk	01/06/2017		
+EPA0092	University of Chichester	25	Digital and Technology Solutions Professional	01/07/2017		Sandra Coley	01243 812133	s.coley@chi.ac.uk	01/09/2016		
+EPA0026	Chartered Management Institute	83	Junior Management Consultant	01/09/2017		Alison Cox	0333 220 3145	apprenticeships@managers.org.uk	01/04/2016		
+EPA0041	DSW Consulting	143	Compliance / Risk Officer	01/07/2017		Tim Hattersley	01302 760 008	info@dswapprenticeships.co.uk 	01/10/2016		
+EPA0041	DSW Consulting	104	Operations/Departmental Manager	01/07/2017		Tim Hattersley	01302 760 008	info@dswapprenticeships.co.uk 	01/09/2016		
+EPA0041	DSW Consulting	7	Relationship Manager (Banking)	01/07/2017		Tim Hattersley	01302 760 008	info@dswapprenticeships.co.uk 	01/04/2016		
+EPA0041	DSW Consulting	36	Public Service Operational Delivery Officer	01/07/2017		Tim Hattersley	01302 760 008	info@dswapprenticeships.co.uk 	01/11/2015		
+EPA0058	iCQ	119	Adult Care Worker	01/03/2018		Paul Paice	07984 201555	paul.paice@icanqualify.co.uk	01/07/2016		
+EPA0058	iCQ	118	Lead Adult Care Worker	01/03/2018		Paul Paice	07984 201555	paul.paice@icanqualify.co.uk	01/07/2016		
+EPA0045	Occupational Awards Limited	152	Advanced Butcher	01/12/2017		Sally Worsley-Speck	01235 432 032	Info@oawards.co.uk	01/12/2016		
+EPA0045	Occupational Awards Limited	54	Butcher	01/12/2017		Sally Worsley-Speck	01235 432 032	Info@oawards.co.uk	01/10/2015		
+EPA0045	Occupational Awards Limited	177	Baker	01/12/2017		Sally Worsley-Speck	01235 432 032	Info@oawards.co.uk	01/07/2017		
+EPA0045	Occupational Awards Limited	149	Advanced Dairy Technologist	01/12/2017		Sally Worsley-Speck	01235 432 032	Info@oawards.co.uk	01/11/2016		
+EPA0022	Innovate Awarding Limited	169	Chef De Partie	01/12/2017		John McNamara	0117 3142800	epa@innovateawarding.org	01/05/2016		
+EPA0093	CABWI Awarding Body	27	Water Process Technician	01/03/2018		Vikki Williams	07590 843833	vikki.williams@cabwi.co.uk	01/10/2016		
+EPA0094	TUV UK Ltd	94	Welding	01/03/2018		Christopher Ingoe	020 8680 7711	cingoe@tuv-nord.com	01/06/2016		
+EPA0094	TUV UK Ltd	95	Welding	01/03/2018		Christopher Ingoe	020 8680 7711	cingoe@tuv-nord.com	01/06/2016		
+EPA0044	The Colleges' Partnership Ltd	36	Public Service Operational Delivery Officer	01/01/2018		Martin Johnson	01258 457091	martin.johnson@tcpartnership.ac.uk	01/11/2015		
+EPA0044	The Colleges' Partnership Ltd	82	Infrastructure Technician	01/01/2018		Martin Johnson	01258 457091	martin.johnson@tcpartnership.ac.uk	01/05/2016		
+EPA0042	Highfield Awarding Body for Compliance (HABC)	102	Healthcare Assistant Practitioner	01/07/2017		Ben Cressey	0845 226 0350 	bcressey@highfieldabc.com	01/06/2016		
+EPA0042	Highfield Awarding Body for Compliance (HABC)	103	Healthcare Support Worker	01/07/2017		Ben Cressey	0845 226 0350 	bcressey@highfieldabc.com	01/11/2016		
+EPA0042	Highfield Awarding Body for Compliance (HABC)	151	Senior Healthcare Support Worker	01/07/2017		Ben Cressey	0845 226 0350 	bcressey@highfieldabc.com	01/11/2016		
+EPA0095	Professional Assessment Ltd	139	Senior Chef Production Cooking	01/07/2017		Linda Martin	0800 160 1899	info@professionalassessment.co.uk	01/10/2016		
+EPA0095	Professional Assessment Ltd	169	Chef De Partie	01/07/2017		Linda Martin	0800 160 1899	info@professionalassessment.co.uk	01/05/2016		
+EPA0095	Professional Assessment Ltd	93	Commis Chef	01/07/2017		Linda Martin	0800 160 1899	info@professionalassessment.co.uk	01/05/2016		
+EPA0095	Professional Assessment Ltd	138	Hospitality Supervisor	01/07/2017		Linda Martin	0800 160 1899	info@professionalassessment.co.uk	01/10/2016		
+EPA0095	Professional Assessment Ltd	96	Hospitality Team Member	01/07/2017		Linda Martin	0800 160 1899	info@professionalassessment.co.uk	01/05/2016		
+EPA0002	British Institute of Facilities Management	23	Property Maintenance Operative	31/03/2016	31/12/2017					Lapsed	
+EPA0033	NCFE/CACHE	133	Assistant Accountant	01/05/2017	31/12/2017		0191 240 8950			Lapsed	
+EPA0033	NCFE/CACHE	55	Chartered Manager Degree Apprenticeship	01/05/2017	31/12/2017		0191 240 8950			Lapsed	
+EPA0096	University of Leeds	25	Digital and Technology Solutions Professional	01/08/2017		David Gardner	0113 34 34038	d.gardner@leeds.ac.uk	01/09/2016		
+EPA0048	South West Councils	36	Public Service Operational Delivery Officer	01/12/2017		Fay Edwards	01823 270101	fay.edwards@swcouncils.gov.uk	01/11/2015		
+EPA0010	EAL	90	Rail Engineering Operative	01/12/2017		Mrs Carolyn Barker	01923 652400	carolyn.barker@eal.org.uk	01/05/2016		
+EPA0008	City and Guilds	180	Arborist	01/04/2018		Jamie Holland	0844 543 0000	apprenticeships@cityandguilds.com 	01/06/2017		
+EPA0008	City and Guilds	182	Forest Operative	01/04/2018		Jamie Holland	0844 543 0000	apprenticeships@cityandguilds.com 	01/06/2017		
+EPA0008	City and Guilds	181	Horticulture and Landscape Operative	01/04/2018		Jamie Holland	0844 543 0000	apprenticeships@cityandguilds.com 	01/06/2017		
+EPA0008	City and Guilds	135	Heavy Vehicle Service and Maintenance Technician	01/09/2018		Jamie Holland	0844 543 0000	apprenticeships@cityandguilds.com 	01/10/2016		
+EPA0014	NOCN	171	Construction Steel Fixer	01/03/2018		Graham Hasting-Evans	0114 227 0500	managing.director@nocn.org.uk	01/10/2016		
+EPA0016	Pearson Education Limited	110	Large Goods Vehicle (LGV) Driver	01/03/2018		Rohini Bhattacharya	07711 390 910	rohini.bhattacharya@pearson.com	01/10/2016		
+EPA0016	Pearson Education Limited	109	Supply Chain Operator	01/03/2018		Rohini Bhattacharya	07711 390 910	rohini.bhattacharya@pearson.com	01/10/2016		
+EPA0016	Pearson Education Limited	111	Supply Chain Warehouse Operative	01/03/2018		Rohini Bhattacharya	07711 390 910	rohini.bhattacharya@pearson.com	01/07/2016		
+EPA0097	International Compliance Association	143	Compliance / Risk Officer	01/03/2018		Bill Howarth	07855 311 638 /07834337605	bhowarth@int-comp.org 	01/10/2016		
+EPA0097	International Compliance Association	144	Senior Compliance / Risk Specialist	01/03/2018		Bill Howarth	07855 311 638 /07834337605	bhowarth@int-comp.org 	01/10/2016		
+EPA0045	Occupational Awards Limited	101	Retailer	01/03/2018		Sally Worsley-Speck	01235 432 032	Info@oawards.co.uk	01/06/2016		
+EPA0045	Occupational Awards Limited	111	Supply Chain Warehouse Operative	01/03/2018		Sally Worsley-Speck	01235 432 032	Info@oawards.co.uk	01/07/2016		
+EPA0045	Occupational Awards Limited	146	Maintenance and Operations Engineering Technician	01/03/2018		Sally Worsley-Speck	01235 432 032	Info@oawards.co.uk	01/11/2016		
+EPA0061	Training Qualifications UK	122	Customer Service Practitioner	01/05/2018		Kelle McQuade	03333 583 344	epa@tquk.org	01/09/2016		
+EPA0099	Road Haulage Association	110	Large Goods Vehicle (LGV) Driver	01/07/2018		Arnold Monk	01733 842764	a.monk@rha.uk.net	01/10/2016		
+EPA0090	BPEC Certification Ltd	74	Gas Engineering	01/01/2018		Matt Skelding	01332 376005	mskelding@bpec.org.uk	01/03/2016		
+EPA0098	Institute of Animal Technology	179	Animal Technologist	01/04/2018		Nikki Chambers	0800 085 4380	admin@iat.org.uk	01/07/2017		
+EPA0002	British Institute of Facilities Management	162	Facilities Management Supervisor	01/07/2018		Linda Hausmanis	01279 712649	 info@bifm.org.uk	01/03/2016		
+EPA0010	EAL	59	Motor Vehicle Service and Maintenance Technician (light vehicle)	01/04/2018		Mrs Carolyn Barker	01923 652400	carolyn.barker@eal.org.uk	01/01/2016		
+EPA0026	Chartered Management Institute	236	Senior Leader Master's Degree Apprenticeship	01/02/2018		Alison Cox	0333 220 3145	apprenticeships@managers.org.uk	01/08/2017		
+EPA0022	Innovate Awarding Limited	196	Business Administrator	01/07/2018		John McNamara	0117 3142800	epa@innovateawarding.org	01/09/2017		
+EPA0100	IOM Communications	160	Composites Technician	01/04/2018		Ian Bowbrick	01476513893	ian.bowbrick@iom3.org	01/03/2017		
+EPA0101	The University of West London 	25	Digital and Technology Solutions Professional	21/11/2017		Janet Rowson	020 8231 2607	Janet.Rowson@uwl.ac.uk	01/09/2016		
+EPA0102	Lakes College	163	Nuclear Technician	01/02/2018		Paul Fairclough 	01946 839300	paulf@lcwc.ac.uk	01/04/2017		
+EPA0103	Essential Learning and Skills Ltd	155	Unified Communications Technician	01/04/2018		David Matthews	07736667131	enquiriesmailbox@elas.ltd	01/01/2017		
+EPA0104	HEE National School of Healthcare Science	150	Healthcare Science Associate	01/04/2018		Sandie Gay	0121 695 2529	nshcs.assessment@hee.nhs.uk	01/11/2016		
+EPA0041	DSW Consulting	101	Retailer	29/11/2017		Tim Hattersley	01302 760 008	info@dswapprenticeships.co.uk 	01/06/2016		
+EPA0041	DSW Consulting	140	Retail Team Leader	29/11/2017		Tim Hattersley	01302 760 008	info@dswapprenticeships.co.uk 	01/10/2016		
+EPA0041	DSW Consulting	147	Retail Manager	29/11/2017		Tim Hattersley	01302 760 008	info@dswapprenticeships.co.uk 	01/11/2016		
+EPA0105	Skills for Logistics (2015) Ltd	110	Large Goods Vehicle (LGV) Driver	01/06/2018		David Coombes	01179278807	contact@skillsforlogistics.co.uk	01/10/2016		
+EPA0064	AIM Awards	112	Broadcast Production Assistant	01/02/2018		Gareth Metcalf	01332 224 657	gareth.metcalf@aimawards.org.uk	03/11/2016		
+EPA0064	AIM Awards	174	Junior Content Producer	01/02/2018		Gareth Metcalf	01332 224 657	gareth.metcalf@aimawards.org.uk	04/11/2016		
+EPA0008	City and Guilds	155	Unified Communications Technician	01/08/2018		Jamie Holland	0844 543 0000	apprenticeships@cityandguilds.com 	05/11/2016		
+EPA0008	City and Guilds	120	Travel Consultant	01/06/2018		Jamie Holland	0844 543 0000	apprenticeships@cityandguilds.com 	06/11/2016		
+EPA0008	City and Guilds	101	Retailer	01/06/2018		Jamie Holland	0844 543 0000	apprenticeships@cityandguilds.com 	01/06/2016		
+EPA0008	City and Guilds	140	Retail Team Leader	01/06/2018		Jamie Holland	0844 543 0000	apprenticeships@cityandguilds.com 	01/11/2016		
+EPA0061	Training Qualifications UK	104	Operations/Departmental Manager	01/05/2018		Kelle McQuade	03333 583 344	epa@tquk.org	01/10/2016		
+EPA0061	Training Qualifications UK	105	Team Leader/Supervisor	01/05/2018		Kelle McQuade	03333 583 344	epa@tquk.org	01/10/2016		
+EPA0061	Training Qualifications UK	196	Business Administrator	01/05/2018		Kelle McQuade	03333 583 344	epa@tquk.org	01/09/2017		
+EPA0069	VTCT	122	Customer Service Practitioner	01/05/2018		Ashley Barnes	023 8068 4500	customersupport@vtct.org.uk	01/09/2016		
+EPA0069	VTCT	147	Retail Manager	01/05/2018		Ashley Barnes	023 8068 4500	customersupport@vtct.org.uk	01/11/2016		
+EPA0106	Colchester County High School for Girls 	203	Teacher	01/02/2018		Alastair Heath-Robinson	01206 364728	enquiries@colchesterttc.org.uk	01/10/2017		
+EPA0107	Suffolk Chamber of Commerce	55	Chartered Manager Degree Apprenticeship	01/08/2018		Robert Turnbull	01473 680600	robert@suffolkchamber.co.uk	01/02/2016		
+EPA0108	TEACH Poole	203	Teacher	01/08/2018		Georgina Verrinder	01202 605315	gvscitt@adastra.poole.sch.uk	01/10/2017		
+EPA0038	Association of Chartered Certified Accountants 	204	Accountancy Taxation Professional	01/09/2018		Anjie Daden	020 70595812	apprenticeships@accaglobal.com	01/07/2016		
+EPA0011	FDQ Ltd	177	Baker	01/09/2018		Terry Fennell 	0113 3970321	Terry.Fennell@fdq.org.uk	01/12/2016		
+EPA0050	ICAEW	204	Accountancy Taxation Professional	01/09/2018		Clemence Mayali	01908 248250	Business.Development@icaew.com 	01/07/2016		
+EPA0045	Occupational Awards Limited	196	Business Administrator	01/06/2018		Sally Worsley-Speck	01235 432 032	Info@oawards.co.uk	01/09/2017		
+EPA0045	Occupational Awards Limited	122	Customer Service Practitioner	01/06/2018		Sally Worsley-Speck	01235 432 032	Info@oawards.co.uk	01/11/2016		
+EPA0045	Occupational Awards Limited	172	Fishmonger	01/06/2018		Sally Worsley-Speck	01235 432 032	Info@oawards.co.uk	01/11/2016		
+EPA0045	Occupational Awards Limited	140	Retail Team Leader	01/06/2018		Sally Worsley-Speck	01235 432 032	Info@oawards.co.uk	01/11/2016		
+EPA0045	Occupational Awards Limited	209	Supply Chain Practitioner	01/06/2018		Sally Worsley-Speck	01235 432 032	Info@oawards.co.uk	01/11/2017		
+EPA0045	Occupational Awards Limited	229	Creative Venue Technician	01/06/2018		Sally Worsley-Speck	01235 432 032	Info@oawards.co.uk	01/11/2017		
+EPA0053	Active IQ	228	Leisure Duty Manager	01/06/2018		Sarah Edmonds	01480 467950 	Sarah@activeiq.co.uk	01/10/2017		
+EPA0041	DSW Consulting	144	Senior Compliance / Risk Specialist	12/01/2018		Tim Hattersley	01302 760 008	info@dswapprenticeships.co.uk 	01/10/2016		
+EPA0058	iCQ	93	Commis Chef	01/09/2018		Paul Paice	07984 201555	paul.paice@icanqualify.co.uk	01/11/2016		
+EPA0058	iCQ	138	Hospitality Supervisor	01/09/2018		Paul Paice	07984 201555	paul.paice@icanqualify.co.uk	01/10/2016		
+EPA0058	iCQ	139	Senior Chef Production Cooking	01/09/2018		Paul Paice	07984 201555	paul.paice@icanqualify.co.uk	01/11/2016		
+EPA0080	Institution of Civil Engineers	199	Civil Engineering Technician	01/03/2018		Sheila Billett	0207 665 2012	epa@ice.org.uk	01/04/2015		
+EPA0080	Institution of Civil Engineers	200	Civil Engineer	01/03/2018		Sheila Billett	0207 665 2012	epa@ice.org.uk	01/04/2015		
+EPA0109	Sheldrake Training Limited 	86	Aviation Ground Specialist	01/06/2018		Hugh McKinney	01980 845358	epa@sheldraketraining.co.uk	01/05/2016		
+EPA0109	Sheldrake Training Limited 	87	Aviation Ground Operative	01/06/2018		Hugh McKinney	01980 845358	epa@sheldraketraining.co.uk	01/05/2016		
+EPA0110	CIPD	190	HR Consultant / Partner	01/09/2018		Joanne Davis	020 86126208	joanne.davis@cipd.co.uk	01/09/2017		
+EPA0110	CIPD	191	HR Support	01/09/2018		Joanne Davis	020 86126208	joanne.davis@cipd.co.uk	01/09/2017		
+EPA0111	Cornwall SCITT	203	Teacher	01/09/2018		Alison Smith	01872 267164	alisons@truro-penwith.ac.uk	01/10/2017		
+EPA0112	Essex Teacher Training	203	Teacher	01/03/2018		Pearl Gibson	033301 39982	info@essexteachertraining.co.uk	01/10/2017		
+EPA0113	Essex and Thames Primary SCITT	203	Teacher	12/01/2018		Emma Nunn	01268 570215	admin@thamesprimaryscitt.co.uk	01/10/2017		
+EPA0114	Harris Initial Teacher Education	203	Teacher	01/03/2018		Rachael Hare	0208 253 7758	info@harrisschooldirect.com	01/10/2017		
+EPA0116	The Academy at Shotton Hall	203	Teacher	12/01/2018		Nicky Hickman	01915180222	nicola.hickman@shottonhallacademy.co.uk	01/10/2017		
+EPA0117	2Schools Consortium	203	Teacher	01/09/2018		Isabella Mora	02088076906	training@oakthorpe.enfield.sch.uk	01/10/2017		
+EPA0118	Academy for Project Management	128	Associate Project Manager	01/05/2018		Joseph Alba	07796600478	joseph.f.s.alba@academy4pm.com	01/10/2016		
+EPA0119	CSR Scientific Training Limited	14	Laboratory Technician	01/09/2018		Simon Jukes	0121 354 2442	simonjukes@csr-group.co.uk	01/10/2015		
+EPA0119	CSR Scientific Training Limited	221	Laboratory Scientist	01/09/2018		Simon Jukes	0121 354 2442	simonjukes@csr-group.co.uk	01/03/2016		
+EPA0120	Hygiene Sue Assessment	96	Hospitality Team Member	01/09/2018		Chelsea Allen	01892 524957	theoffice@hsa.co.uk	01/05/2016		
+EPA0121	East Sussex Teacher Training Partnership SCITT	203	Teacher	01/09/2018		Alan Taylor	01273 482088	alan.taylor@eastsussex@gov.uk	01/10/2017		
+EPA0122	e-Qualitas	203	Teacher	01/09/2018		Dr Vivien Johnston	01892 513881	vivien@e-qualitas.co.uk	01/10/2017		
+EPA0123	London Metropolitan University	203	Teacher	01/09/2018		Chris Lane	020 7423 0000	c.lane@londonmet.ac.uk	01/10/2017		
+EPA0124	Newman University	203	Teacher	01/09/2018		Kate Mara	0121 476 1181 ext 2362	k.mara@newman.ac.uk	01/10/2017		
+EPA0125	MP Awards	175	Mineral Processing Mobile and Static Plant Operator	01/09/2018		Roseanne Hayward	0115 972 6121	roseanne.hayward@mpawards.co.uk	01/06/2017		
+EPA0126	Mid Essex Initial Teacher Training	203	Teacher	01/09/2018		Martin Higgon	01376 556300	martin.higgon@notleyhigh.com	01/10/2017		
+EPA0127	University of Roehampton	25	Digital and Technology Solutions Professional	01/03/2018		Fiona Gardiner 	020 8392 3762	fiona.gardiner@roehampton.ac.uk	01/09/2016		
+EPA0128	Surrey South Farnham SCITT	203	Teacher	01/06/2018		Claire Harnden	01252 717408	charnden@sfet.org.uk	01/10/2017		
+EPA0129	University of Gloucestershire	203	Teacher	01/09/2018		Ian Cumiskey	01242714738	icumiskey@glos.ac.uk	01/10/2017		
+EPA0008	City and Guilds	196	Business Administrator	01/09/2018		Jamie Holland	0844 543 0000	apprenticeships@cityandguilds.com 	01/09/2017		
+EPA0008	City and Guilds	55	Chartered Manager Degree Apprenticeship	01/09/2018		Jamie Holland	0844 543 0000	apprenticeships@cityandguilds.com 	01/02/2016		
+EPA0008	City and Guilds	102	Healthcare Assistant Practitioner	01/09/2018		Jamie Holland	0844 543 0000	apprenticeships@cityandguilds.com 	01/06/2016		
+EPA0115	Titan Partnership Ltd	203	Teacher	01/09/2018		Claire Mitchell-White	0121 607 1930	Claire.mitchell-white@titan.org.uk	01/10/2017		
+EPA0104	HEE National School of Healthcare Science	99	Healthcare Science Assistant	01/06/2018		Sandie Gay	0121 695 2529	nshcs.assessment@hee.nhs.uk	01/11/2016		
+EPA0104	HEE National School of Healthcare Science	168	Healthcare Science Practitioner	01/06/2018		Sandie Gay	0121 695 2529	nshcs.assessment@hee.nhs.uk	01/11/2016		
+EPA0086	Babcock Engineering Assessments	188	Rail Infrastructure Operator	01/06/2018		David Glazier	02392 542371	david.glazier@babcockinternational.com	01/05/2016		
+EPA0033	NCFE/CACHE	196	Business Administrator	01/06/2018		David Grailey	0191 240 8950	epa@ncfe.org.uk	01/09/2017		
+EPA0042	Highfield Awarding Body for Compliance (HABC)	189	"Passenger Transport Driver - bus, coach and rail"	01/06/2018		Ben Cressey	0845 226 0350 	bcressey@highfieldabc.com	01/08/2017		
+EPA0132	University of Derby	25	Digital and Technology Solutions Professional	01/10/2018		Kirsty Tallis	01332 593225	k.tallis@derby.ac.uk	01/09/2016		
+EPA0131	Prepare to Achieve Ltd	119	Adult Care Worker	01/10/2018		Sandra Evans	0151 650 6952	info@preparetoachieve.co.uk	01/07/2016		
+EPA0133	Chartered Institute of Management Accountants (CIMA)	117	Professional Accounting Taxation Technician	01/10/2018		David Rowsby	0203 814 2274	David.Rowsby@aicpa-cima.com	01/07/2016		
+EPA0134	"Merseyside, Cheshire and Greater Manchester Teacher Training Consortium"	203	Teacher	01/10/2018		Phil Daniels	01928511778	admin@teachertrainingconsortium.org.uk	01/10/2017		
+EPA0011	FDQ Ltd	130	Food and Drink Process Operator	01/10/2018		Terry Fennell 	0113 3970321	Terry.Fennell@fdq.org.uk	01/10/2016		
+EPA0105	Skills for Logistics (2015) Ltd	209	Supply Chain Practitioner	01/09/2018		David Coombes	0117 9278807	contact@skillsforlogistics.co.uk	01/11/2017		
+EPA0105	Skills for Logistics (2015) Ltd	111	Supply Chain Warehouse Operative	01/09/2018		David Coombes	0117 9278807	contact@skillsforlogistics.co.uk	01/07/2016		
+EPA0061	Training Qualifications UK	103	Healthcare Support Worker	01/10/2018		Kelle McQuade	03333 583 344	epa@tquk.org	01/11/2016		
+EPA0061	Training Qualifications UK	151	Senior Healthcare Support Worker	01/10/2018		Kelle McQuade	03333 583 344	epa@tquk.org	01/11/2016		
+EPA0061	Training Qualifications UK	157	Hair Professional	01/10/2018		Kelle McQuade	03333 583 344	epa@tquk.org	01/01/2017		
+EPA0130	YMCA Awards	228	Leisure Duty Manager	01/10/2018		Adam Williams 	0207343 1800	awards.epa@ymca.co.uk	01/10/2017		
+EPA0042	Highfield Awarding Body for Compliance (HABC)	86	Aviation Ground Specialist	01/10/2018		Ben Cressey	0845 226 0350 	bcressey@highfieldabc.com	01/05/2016		
+EPA0042	Highfield Awarding Body for Compliance (HABC)	87	Aviation Ground Operative	01/10/2018		Ben Cressey	0845 226 0350 	bcressey@highfieldabc.com	01/05/2016		
+EPA0042	Highfield Awarding Body for Compliance (HABC)	123	Aviation Operations Manager	01/10/2018		Ben Cressey	0845 226 0350 	bcressey@highfieldabc.com	01/10/2016		
+EPA0079	Instructus	101	Retailer	01/10/2018		Johan Thomsen	01536 738631	johan.thomsen@Instructus.org	01/06/2016		
+EPA0014	NOCN	195	Digital Engineering Technician	01/10/2018		Graham Hasting-Evans	0114 227 0500	managing.director@nocn.org.uk	01/09/2017		
+EPA0028	Science Industry Assessment Service	TBC	Technician Scientist	01/10/2018		Janice Snape	01925515211	Janice.snape@siasuk.com	01/11/2017		
+EPA0028	Science Industry Assessment Service	249	Science Manufacturing Process Operative	01/10/2018		Janice Snape	01925515211	Janice.snape@siasuk.com	01/11/2017		
+EPA0028	Science Industry Assessment Service	248	Science Industry Process/Plant Engineer (Degree)	01/10/2018		Janice Snape	01925515211	Janice.snape@siasuk.com	01/11/2017		
+EPA0028	Science Industry Assessment Service	221	Laboratory Scientist	01/10/2018		Janice Snape	01925515211	Janice.snape@siasuk.com	01/01/2018		
+EPA0048	South West Councils	196	Business Administrator	01/07/2018		Fay Edwards	01823 270101	epa@swcouncils.gov.uk	01/09/2017		
+EPA0048	South West Councils	190	HR Consultant / Partner	01/07/2018		Fay Edwards	01823 270101	epa@swcouncils.gov.uk	01/09/2017		
+EPA0048	South West Councils	191	HR Support	01/07/2018		Fay Edwards	01823 270101	epa@swcouncils.gov.uk	01/09/2017		
+EPA0135	AuFait Training & Consultancy	190	HR Consultant / Partner	01/07/2018		Colleen Ashley	01606 77972	colleen@aufait-training.com	01/09/2017		
+EPA0135	AuFait Training & Consultancy	191	HR Support	01/07/2018		Colleen Ashley	01606 77972	colleen@aufait-training.com	01/09/2017		
+EPA0135	AuFait Training & Consultancy	138	Hospitality Supervisor	01/07/2018		Colleen Ashley	01606 77972	colleen@aufait-training.com	01/10/2016		
+EPA0137	Brockenhurst College	165	IS Business Analyst	01/05/2018		Daniel Power	01590 625555	dpower@brock.ac.uk	01/10/2016		
+EPA0137	Brockenhurst College	93	Commis Chef	01/05/2018		Daniel Power	01590 625555	dpower@brock.ac.uk	01/10/2016		
+EPA0008	City and Guilds	74	Gas Engineering	01/11/2018		Jamie Holland	0844 543 0000	apprenticeships@cityandguilds.com 	01/03/2016		
+EPA0008	City and Guilds	138	Hospitality Supervisor	01/11/2018		Jamie Holland	0844 543 0000	apprenticeships@cityandguilds.com 	01/10/2016		
+EPA0008	City and Guilds	139	Senior Chef Production Cooking	01/11/2018		Jamie Holland	0844 543 0000	apprenticeships@cityandguilds.com 	01/11/2016		
+EPA0041	DSW Consulting	196	Business Administrator	01/03/2018		Tim Hattersley	01302 760 008	info@dswapprenticeships.co.uk 	01/09/2017		
+EPA0042	Highfield Awarding Body for Compliance (HABC)	196	Business Administrator	01/11/2018		Ben Cressey	0845 226 0350 	bcressey@highfieldabc.com	01/09/2017		
+EPA0132	University of Derby	203	Teacher	01/03/2018		Kirsty Tallis	01332 593225	k.tallis@derby.ac.uk	01/10/2017		
+EPA0014	NOCN	186	Project Controls Technician	01/11/2018		Graham Hasting-Evans	0114 227 0500	managing.director@nocn.org.uk	01/09/2017		
+EPA0014	NOCN	30	Investment Operations Specialist	01/11/2018		Graham Hasting-Evans	0114 227 0500	managing.director@nocn.org.uk	01/09/2017		
+EPA0014	NOCN	60	Insurance Practitioner	01/11/2018		Graham Hasting-Evans	0114 227 0500	managing.director@nocn.org.uk	01/09/2017		
+EPA0014	NOCN	63	Insurance Professional	01/11/2018		Graham Hasting-Evans	0114 227 0500	managing.director@nocn.org.uk	01/09/2017		
+EPA0016	Pearson Education Limited	196	Business Administrator	01/11/2018		Rohini Bhattacharya	07711 390 910	rohini.bhattacharya@pearson.com	01/09/2017		
+EPA0095	Professional Assessment Ltd	119	Adult Care Worker	01/08/2018		Linda Martin	0800 160 1899	info@professionalassessment.co.uk	01/07/2016		
+EPA0095	Professional Assessment Ltd	118	Lead Adult Care Worker	01/08/2018		Linda Martin	0800 160 1899	info@professionalassessment.co.uk	01/07/2016		
+EPA0095	Professional Assessment Ltd	101	Retailer	01/08/2018		Linda Martin	0800 160 1899	info@professionalassessment.co.uk	01/06/2016		
+EPA0095	Professional Assessment Ltd	159	Event Assistant	01/08/2018		Linda Martin	0800 160 1899	info@professionalassessment.co.uk	01/02/2017		
+EPA0084	Royal Aeronautical Society	166	Postgraduate Engineer	01/08/2018		Lynn Beattie	0207 670 4300	lynn.beattie@aerosociety.com	01/05/2017		
+EPA0084	Royal Aeronautical Society	37	Aerospace Engineer	01/08/2018		Lynn Beattie	0207 670 4300	lynn.beattie@aerosociety.com	01/04/2018		
+EPA0084	Royal Aeronautical Society	38	Aerospace Software Development Engineer	01/08/2018		Lynn Beattie	0207 670 4300	lynn.beattie@aerosociety.com	01/04/2018		
+EPA0084	Royal Aeronautical Society	114	Aircraft Maintenance Certifying Engineer	01/08/2018		Lynn Beattie	0207 670 4300	lynn.beattie@aerosociety.com	01/07/2016		
+EPA0082	SFJ Awards	105	Team Leader/Supervisor	01/08/2018		Steve Batty	0114 284 1970	 s.batty@sfjawards.com	01/09/2016		
+EPA0082	SFJ Awards	122	Customer Service Practitioner	01/08/2018		Steve Batty	0114 284 1970	 s.batty@sfjawards.com	01/09/2016		
+EPA0140	RTITB	110	Large Goods Vehicle (LGV) Driver	01/08/2018		Laura Nelson	01952 520200	epa@rtitb.co.uk	01/10/2016		
+EPA0140	RTITB	111	Supply Chain Warehouse Operative	01/08/2018		Laura Nelson	01952 520200	epa@rtitb.co.uk	01/07/2016		
+EPA0139	Tes Institute	203	Teacher	01/08/2018		Tes Institute Enquiries	0203 194 3164	institute@tesglobal.com	01/10/2017		
+EPA0039	BIIAB	111	Supply Chain Warehouse Operative	01/11/2018		Customer Support	01276 684449	customersupport@bii.org	01/07/2016		
+EPA0022	Innovate Awarding Limited	228	Leisure Duty Manager	01/08/2018		Charlotte Bosworth	0117 3142800	epa@Innovateawarding.org	01/10/2017		
+EPA0022	Innovate Awarding Limited	111	Supply Chain Warehouse Operative	01/08/2018		Charlotte Bosworth	0117 3142800	epa@Innovateawarding.org	01/07/2016		
+EPA0047	QFI	171	Construction Steel Fixer	01/08/2018		Richard McClelland	07710 427643	richard.mcclelland@qfi.org.uk	01/10/2016		
+EPA0047	QFI	219	Lifting Technician	01/08/2018		Richard McClelland	07710 427643	richard.mcclelland@qfi.org.uk	01/10/2017		
+EPA0054	Skillsfirst Assess	217	Recruitment Consultant	01/11/2018		Mark Child/Yvonne Bennett	0121 270 5100	enquiries@skillsfirstassess.co.uk	01/10/2017		
+EPA0054	Skillsfirst Assess	218	Recruitment Resourcer	01/11/2018		Mark Child/Yvonne Bennett	0121 270 5100	enquiries@skillsfirstassess.co.uk	01/10/2017		
+EPA0141	Headquarters Infantry	108	HM Forces Serviceperson (Public Services)	01/08/2018		Derek McConnachie	01985 222752	infhq-pdat-po@mod.uk	01/07/2016		
+EPA0142	Recruitment and Employment Confederation (REC)	217	Recruitment Consultant	01/11/2018		Richard Charnock	020 7009 2100	epao@rec.uk.com	01/10/2017		
+EPA0145	Northumbria University	25	Digital and Technology Solutions Professional	28/03/2018		Sue Graham	01912273188	sue.graham@northumbria.ac.uk	01/09/2016		
+EPA0146	The Education and Care Qualification Network	119	Adult Care Worker	01/04/2018		Reece Borg	02038244091	Reece@ecqn.co.uk	01/07/2016		
+EPA0146	The Education and Care Qualification Network	118	Lead Adult Care Worker	01/04/2018		Reece Borg	02038244091	Reece@ecqn.co.uk	01/07/2016		
+EPA0147	Chartered Institution of Highways and Transportation	100	Transport Planning Technician	01/05/2018		Sue Stevens	02073361555	"sue.stevens@ciht.org,uk"	01/05/2016		
+EPA0144	Vista Training	119	Adult Care Worker	01/04/2018		Ali Sharif	0843 289 6351	epa@vistaassessmentsolutions.co.uk	01/07/2016		
+EPA0144	Vista Training	118	Lead Adult Care Worker	01/04/2018		Ali Sharif	0843 289 6351	epa@vistaassessmentsolutions.co.uk	01/07/2016		
+EPA0148	United Centre of Excellence Limited	238	Improvement Technician	01/06/2018			01332 345205	Info@UCE.org.uk.	01/02/2018		
+EPA0148	United Centre of Excellence Limited	237	Improvement Practitioner	01/06/2018			01332 345205	Info@UCE.org.uk.	01/02/2018		
+EPA0149	South Coast SCITT	203	Teacher	01/08/2018		Angela Barnes	01425 674625	abarnes@scscitt.co.uk 	01/10/2017		
+EPA0045	Occupational Awards Limited	261	Trade Supplier	01/05/2018		Sally Worsley-Speck	01235 432 032	Info@oawards.co.uk	01/04/2018		
+EPA0143	Specialised HGV	110	Large Goods Vehicle (LGV) Driver	01/03/2018		Solomon Kravitz	0207 908 5437	solomon@hgvtraining.co.uk	01/04/2018		
+EPA0044	The Colleges' Partnership Ltd	155	Unified Communications Technician	01/08/2018		Martin Johnson	01258 457091	martin.johnson@tcpartnership.ac.uk	01/12/2016		
+EPA0027	NET	126	Fire Emergency and Security Systems Technician	01/06/2018		Carolyn Mason	07590 224088	carolyn.mason@eca.co.uk	01/08/2016		
+EPA0061	Training Qualifications UK	102	Healthcare Assistant Practitioner	01/10/2018		Kelle McQuade	03333 583 344	epa@tquk.org	01/11/2016		
+EPA0024	Babcock Assessments Ltd	111	Supply Chain Warehouse Operative	01/11/2018		Gary Tovey	0800 077 8738	assessments@babcockinternational.com	01/07/2016		
+EPA0087	Further Training Ltd	105	Team Leader/Supervisor	01/03/2018		Kate Gough	0845 600 6690	enquiries@furthertraining.co.uk	01/09/2016		
+EPA0014	NOCN	219	Lifting Technician	01/11/2018		Graham Hasting-Evans	0114 227 0500	managing.director@nocn.org.uk	01/10/2017		
+EPA0053	Active IQ	215	Community Activator Coach	01/08/2018		Sarah Edmonds	01480 467950 	Sarah@activeiq.co.uk	15/12/2017		
+EPA0053	Active IQ	196	Business Administrator	01/08/2018		Sarah Edmonds	01480 467950 	Sarah@activeiq.co.uk	01/09/2017		
+EPA0009	Energy & Utilities Independent Assessment Service	216	Electrical Power Networks Engineer	01/11/2018		Jacqueline Hall	07921 230 272	 jacqueline.hall@euias.co.uk	20/12/2017		
+EPA0022	Innovate Awarding Limited	215	Community Activator Coach	01/08/2018		Charlotte Bosworth	0117 3142800	epa@Innovateawarding.org	15/12/2017		
+EPA0022	Innovate Awarding Limited	223	Hospitality Manager	01/08/2018		Charlotte Bosworth	0117 3142800	epa@Innovateawarding.org	10/01/2018		
+EPA0082	SFJ Awards	241	Operational Firefighter	01/08/2018		Steve Batty	0114 284 1970	 s.batty@sfjawards.com	27/02/2018		
+EPA0010	EAL	12	Product Design and Development Engineer	01/04/2018		Mrs Carolyn Barker	01923 652400	carolyn.barker@eal.org.uk	12/11/2014		
+EPA0042	Highfield Awarding Body for Compliance (HABC)	206	Passenger transport onboard and station team member	01/11/2018		Ben Cressey	0845 226 0350 	bcressey@highfieldabc.com	23/11/2017		
+EPA0150	University of East London	25	Digital and Technology Solutions Professional	01/05/2018		Guy Thomas 	0208 223 2337	Degreeapprenticeships@uel.ac.uk	01/09/2016		
+EPA0123	London Metropolitan University	256	Police Constable	01/07/2018		Chris Lane	020 7423 0000	c.lane@londonmet.ac.uk	01/05/2018		
+EPA0071	Manpower Services Ltd 	111	Supply Chain Warehouse Operative	01/10/2018		Lisa Wright	07789 878389 	Lisa.Wright@manpower.co.uk 	01/07/2016		
+EPA0082	SFJ Awards	250	Business Fire Safety Advisor	01/01/2019		Steve Batty	0114 284 1970	s.batty@sfjawards.com	01/04/2018		
+EPA0151	Apprenticeship EPA Centre	105	Team Leader/Supervisor	01/07/2018		Louise Webber	0845 223 5020	Louise@apprenticeship-centre.co.uk	01/10/2016		
+EPA0151	Apprenticeship EPA Centre	196	Business Administrator	01/07/2018		Louise Webber	0845 223 5020	Louise@apprenticeship-centre.co.uk	01/09/2017		
+EPA0151	Apprenticeship EPA Centre	111	Supply Chain Warehouse Operative	01/07/2018		Louise Webber	0845 223 5020	Louise@apprenticeship-centre.co.uk	01/07/2016		
+EPA0044	The Colleges' Partnership Ltd	196	Business Administrator	01/07/2018		Martin Johnson	01258 457091	martin.johnson@tcpartnership.ac.uk	01/09/2017		
+EPA0044	The Colleges' Partnership Ltd	79	Cyber Intrusion Analyst	01/07/2018		Martin Johnson	01258 457091	martin.johnson@tcpartnership.ac.uk	01/06/2016		
+EPA0044	The Colleges' Partnership Ltd	142	IT Technical Salesperson	01/07/2018		Martin Johnson	01258 457091	martin.johnson@tcpartnership.ac.uk	01/10/2016		
+EPA0152	Lean Training Solutions Ltd	111	Supply Chain Warehouse Operative	01/08/2018		Paul Eagle	07432 698032	paule@leantrainingsolutions.co.uk	01/05/2018		
+EPA0152	Lean Training Solutions Ltd	130	Food and Drink Process Operator	01/08/2018		Paul Eagle	07432 698032	paule@leantrainingsolutions.co.uk	01/05/2018		
+EPA0153	Sheffield Hallam University	168	Healthcare Science Practitioner	01/12/2018		Francesca Frascina	0114 225 6600	f.frascina@shu.ac.uk	01/11/2016		
+EPA0003	BINDT	207	Non-Destructive Testing Engineer	01/03/2018		Roger Lyon	01604 893811	apprenticeships@bindt.org	01/08/2017		
+EPA0105	Skills for Logistics (2015) Ltd	109	Supply Chain Operator	01/09/2018		David Coombes	0117 9278807	contact@skillsforlogistics.co.uk	01/01/2018		
+EPA0054	Skillsfirst Assess	104	Operations/Departmental Manager	01/08/2018		Mark Child/Yvonne Bennett	0121 270 5100	enquiries@skillsfirstassess.co.uk	01/10/2017		
+EPA0054	Skillsfirst Assess	196	Business Administrator	01/08/2018		Mark Child/Yvonne Bennett	0121 270 5100	enquiries@skillsfirstassess.co.uk	01/09/2017		
+EPA0006	Chartered Institute of Housing	23	Property Maintenance Operative	01/11/2017		Vanessa Howell	02476 851739	Vanessa.howell@cih.org	01/04/2015		
+EPA0039	BIIAB	118	Lead Adult Care Worker	01/08/2018		Customer Support	01276 684449	customersupport@bii.org	01/07/2016		
+EPA0039	BIIAB	119	Adult Care Worker	01/08/2018		Customer Support	01276 684449	customersupport@bii.org	01/07/2016		
+EPA0039	BIIAB	196	Business Administrator	01/08/2018		Customer Support	01276 684449	customersupport@bii.org	01/09/2017		
+EPA0041	DSW Consulting	30	Investment Operations Specialist	01/03/2018		Tim Hattersley	01302 760 008	info@dswapprenticeships.co.uk 	01/11/2017		
+EPA0041	DSW Consulting	33	Investment Operations Technician	01/03/2018		Tim Hattersley	01302 760 008	info@dswapprenticeships.co.uk 	01/11/2017		
+EPA0136	Inplace Learning	105	Team Leader/Supervisor	01/02/2018		Stuart Pyle	07739 526500	stuart@peopleservices.microsoft.com	01/09/2016		
+EPA0136	Inplace Learning	104	Operations/Departmental Manager	01/02/2018		Stuart Pyle	07739 526500	stuart@peopleservices.microsoft.com	01/09/2016		
+EPA0138	The Chartered Institute of Taxation	204	Accountancy Taxation Professional	01/08/2018		Rosalind Baxter	0844 579 6700	education@ciot.org.uk	01/11/2017		
+EPA0061	Training Qualifications UK	190	HR Consultant / Partner	01/10/2018		Kelle McQuade	03333 583 344	epa@tquk.org	01/09/2017		
+EPA0061	Training Qualifications UK	191	HR Support	01/10/2018		Kelle McQuade	03333 583 344	epa@tquk.org	01/09/2017		
+EPA0154	Autoexel Limited	59	Motor Vehicle Service and Maintenance Technician (light vehicle)	01/10/2018		Christopher Newton	01235 553296	enquiries@autoexel.org.uk	01/01/2016		
+EPA0037	ProQual AB	239	Carpentry and Joinery	01/10/2018		Gary Bartle	01430 423822	garybartle@proqualab.com	01/05/2018		
+EPA0037	ProQual AB	171	Construction Steel Fixer	01/10/2018		Gary Bartle	01430 423822	garybartle@proqualab.com	01/10/2016		
+EPA0037	ProQual AB	219	Lifting Technician	01/10/2018		Gary Bartle	01430 423822	garybartle@proqualab.com	01/10/2017		
+EPA0047	QFI	125	Highway Electrical Maintenance and Installation Operative	01/10/2018		Richard McClelland	07710 427643	richard.mcclelland@qfi.org.uk	01/03/2018		
+EPA0047	QFI	124	Highway Electrician / Service Operative	01/10/2018		Richard McClelland	07710 427643	richard.mcclelland@qfi.org.uk	01/03/2018		
+EPA0155	University of Lincoln	184	Food Industry Technical Professional	01/12/2018		Professor Val Braybrooks	01406 493000	vbraybrooks@lincoln.ac.uk	01/06/2017		
+EPA0156	University of Wolverhampton	25	Digital and Technology Solutions Professional	01/07/2018		Richard Middleton	01902 322403	Richard.Middleton@wlv.ac.uk	01/09/2016		
+EPA0157	Assesu	105	Team Leader/Supervisor	01/08/2018		Jane Firth	0115 975 9550	Jane.firth@assessu.co.uk	01/06/2016		
+											
+											
+											
+											
+											
+											
+											
+											
+											
